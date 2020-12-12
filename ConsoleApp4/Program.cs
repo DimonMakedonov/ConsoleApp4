@@ -18,7 +18,7 @@ namespace ConsoleApp4
 
             report.Prepare();
 
-            FastReport.Export.Pdf.PDFExport export = new PDFExport();
+            PDFExport export = new PDFExport();
 
             report.Export(export, "result.pdf");
 
