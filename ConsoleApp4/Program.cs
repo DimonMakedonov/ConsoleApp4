@@ -16,7 +16,7 @@ namespace ConsoleApp4
 
             report.Load(@"C:\Users\Dima\Desktop\FR\frx\1.frx");
 
-            report.SetParameterValue("Richobject", @"C: \Users\Dima\Desktop\Новый документ в формате RTF.RTF");
+            //report.SetParameterValue();
 
             report.Prepare();
 
