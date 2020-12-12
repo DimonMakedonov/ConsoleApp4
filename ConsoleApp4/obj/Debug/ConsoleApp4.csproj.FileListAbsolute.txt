@@ -1,0 +1,14 @@
+C:\Users\Dima\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\Dima\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\Dima\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\Dima\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\FastReport.dll
+C:\Users\Dima\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\FastReport.Bars.dll
+C:\Users\Dima\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\FastReport.DataVisualization.dll
+C:\Users\Dima\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\FastReport.Editor.dll
+C:\Users\Dima\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\FastReport.Compat.dll
+C:\Users\Dima\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\FastReport.xml
+C:\Users\Dima\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csprojAssemblyReference.cache
+C:\Users\Dima\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\Dima\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CopyComplete
+C:\Users\Dima\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\Dima\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
