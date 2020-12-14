@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -16,7 +17,26 @@ namespace ConsoleApp4
 
             report.Load(@"C:\Users\Dima\Desktop\FR\frx\1.frx");
 
-            //report.SetParameterValue();
+            //report.InitialPageNumber = 1;
+
+            RichObject rich = new RichObject();
+
+            try
+            {
+                using (StreamReader reader = new StreamReader(@"C:\Users\Dima\Desktop\Новый документ в формате RTF (3).RTF", Encoding.ASCII))
+                {
+                    rich.Text = reader.ReadToEnd();
+                    reader.Close();
+                }
+            }
+            catch (Exception)
+            {
+
+            }
+
+            Console.WriteLine(rich.Text);
+
+            report.SetParameterValue("Parameter.Parameter", rich.Text);
 
             report.Prepare();
 
@@ -25,6 +45,7 @@ namespace ConsoleApp4
             report.Export(export, "result.pdf");
 
             report.Dispose();
+            Console.ReadKey();
         }
     }
 }

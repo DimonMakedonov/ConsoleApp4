@@ -1,0 +1,1282 @@
+{\rtf1\ansi\deff3\adeflang1025
+{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\froman\fprq2\fcharset2 Symbol;}{\f2\fswiss\fprq2\fcharset0 Arial;}{\f3\froman\fprq2\fcharset204 Times New Roman;}{\f4\fswiss\fprq2\fcharset204 Arial;}{\f5\fnil\fprq2\fcharset204 Microsoft YaHei;}{\f6\fnil\fprq2\fcharset204 Arial;}{\f7\fswiss\fprq0\fcharset128 Arial;}}
+{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+{\stylesheet{\s0\snext0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049 Normal;}
+{\s15\sbasedon0\snext16\sb240\sa120\keepn\dbch\af5\dbch\af6\afs28\loch\f4\fs28 \u1047\'c7\u1072\'e0\u1075\'e3\u1086\'ee\u1083\'eb\u1086\'ee\u1074\'e2\u1086\'ee\u1082\'ea;}
+{\s16\sbasedon0\snext16\sl276\slmult1\sb0\sa140 \u1054\'ce\u1089\'f1\u1085\'ed\u1086\'ee\u1074\'e2\u1085\'ed\u1086\'ee\u1081\'e9 \u1090\'f2\u1077\'e5\u1082\'ea\u1089\'f1\u1090\'f2;}
+{\s17\sbasedon16\snext17\sl276\slmult1\sb0\sa140\dbch\af7 \u1057\'d1\u1087\'ef\u1080\'e8\u1089\'f1\u1086\'ee\u1082\'ea;}
+{\s18\sbasedon0\snext18\sb120\sa120\noline\i\dbch\af7\afs24\ai\fs24 \u1053\'cd\u1072\'e0\u1079\'e7\u1074\'e2\u1072\'e0\u1085\'ed\u1080\'e8\u1077\'e5;}
+{\s19\sbasedon0\snext19\noline\dbch\af7 \u1059\'d3\u1082\'ea\u1072\'e0\u1079\'e7\u1072\'e0\u1090\'f2\u1077\'e5\u1083\'eb\u1100\'fc;}
+}{\*\generator Trio_Office/6.2.8.2$Windows_x86 LibreOffice_project/}{\info{\creatim\yr0\mo0\dy0\hr0\min0}{\revtim\yr2020\mo6\dy19\hr18\min4}{\printim\yr0\mo0\dy0\hr0\min0}}{\*\userprops}\deftab709
+\viewscale100
+{\*\pgdsctbl
+{\pgdsc0\pgdscuse451\pgwsxn11906\pghsxn16838\marglsxn1134\margrsxn1134\margtsxn1134\margbsxn1134\pgdscnxt0 \u1041\'3f\u1072\'3f\u1079\'3f\u1086\'3f\u1074\'3f\u1099\'3f\u1081\'3f;}}
+\formshade\paperh16838\paperw11906\margl1134\margr1134\margt1134\margb1134\sectd\sbknone\sectunlocked1\pgndec\pgwsxn11906\pghsxn16838\marglsxn1134\margrsxn1134\margtsxn1134\margbsxn1134\ftnbj\ftnstart1\ftnrstcont\ftnnar\aenddoc\aftnrstcont\aftnstart1\aftnnrlc
+{\*\ftnsep\chftnsep}\pgndec\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1054\'ce\u1073\'e1\u1098\'fa\u1103\'ff\u1089\'f1\u1085\'ed\u1077\'e5\u1085\'ed\u1080\'e8\u1103\'ff \u1079\'e7\u1072\'e0\u1087\'ef\u1088\'f0\u1086\'ee\u1089\'f1\u1086\'ee\u1074\'e2 \u1101\'fd\u1090\'f2\u1086\'ee \u1085\'ed\u1077\'e5 \u1087\'ef\u1088\'f0\u1086\'ee\u1089\'f1\u1090\'f2\u1086\'ee \u1087\'ef\u1077\'e5\u1088\'f0\u1077\'e5\u1074\'e2\u1086\'ee\u1076\'e4 \u1095\'f7\u1077\'e5\u1088\'f0\u1077\'e5\u1079\'e7 \u1087\'ef\u1077\'e5\u1088\'f0\u1077\'e5\u1074\'e2\u1086\'ee\u1076\'e4\u1095\'f7\u1080\'e8\u1082\'ea}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1055\'cf\u1088\'f0\u1086\'ee\u1089\'f1\u1090\'f2\u1086\'ee \u1103\'ff \u1087\'ef\u1080\'e8\u1096\'f8\u1091\'f3 \u1090\'f2\u1072\'e0\u1082\'ea \u1082\'ea\u1072\'e0\u1082\'ea \u1103\'ff \u1101\'fd\u1090\'f2\u1086\'ee \u1087\'ef\u1086\'ee\u1085\'ed\u1080\'e8\u1084\'ec\u1072\'e0\u1102\'fe}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+1) SELECT MIN(price)}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+FROM titles t}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+WHERE t.pub_id IN}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+(SELECT pub_id}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+FROM publishers}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+WHERE country="USA");}
+\par \shpwr2\shpwrk3\shpbypara\shpbyignore\shptop105\shpbxcolumn\shpbxignore\shpleft34\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+{\*\flymaincnt5\flyanchor0\flycntnt}{\shp{\*\shpinst\shpwr2\shpwrk3\shpbypara\shpbyignore\shptop105\shpbottom1080\shpbxcolumn\shpbxignore\shpleft34\shpright1504{\sp{\sn shapeType}{\sv 75}}{\sp{\sn wzDescription}{\sv }}{\sp{\sn wzName}{\sv }}{\sp{\sn pib}{\sv {\pict\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw98\pich65\picwgoal1470\pichgoal975\pngblip
+89504e470d0a1a0a0000000d4948445200000062000000410802000000a5ffe6c10000041449444154789ced9abd8ee23010c71d69cb7d830828b68057405000
+25f42960255a429f0224aa95a0a007da95580afaa42414a0bc02141404f11c397f244082013be8963b657e556239b1fdf7d81edbf3f6fefe8e8047bcbdba02ff
+07be4c8a52ebdbc555b96b7ade6b2bf48f101104ac498837a536b08d3c7bc9dbb68190332c774c2fd7fe99682a4dc609bea84948e40af2e6999d92c919749b51
+a3348a8a9a8444ae2030e884f065f2988640404410b02621402621402621402621c00be7f37a87405172fab487be3e471be92e5172ede94473a9032c5f6e7c53
+9090e9b28af4b9b06e7d8eb7597d1af8b18878aca58e19ca494499a466e78655fbe4cb86bc464f82d7f8eeb0684ff5dde77823a994a4351d8fe962159966b682
+5c474d7d206f43fcd8f17547e19c753d678db7e11fe0ad808186a5d146aedc008feb4a8b7f6e7686c565b33aee48fa889232b9eb35cae4945a33b5ff3e1c9bf7
+b2aed7ae862bd4b542a9d562de59754faf6c201ce6698d1ae471de6a50056b839fcc6a5d3082546cb5e864b6e71d19a33658fa9b306acbc16f4f69a1116aad1c
+83f69f9441c9c8f49152d16a712856f414c24dcdd4ef675f7ccf7bcd2ab276a7145cfbb04a8cbc961a964a266d5bafbd607396aad551ab5cc68dc12ad0fe3f9b
+ede5c74423443ebf28050f736cdae50edec792fcfd9a75212bd1a9f8817773122d97b4a6e361b75d647a64aa41487f947b3b9ea1a99efd7a94cf19fa26b73b1c
+c940662d70667e87dfd94651ddb1b1852d365b29a8798d6eeefd5a6723aaa433d1940748af747476200f3981d2ac956b372b7389dfe38e90ad91bbdf5ea5d171
+7a7b58f13eb98b844cd94c5aeedf18eb7b5eef1570bdfc776c2f065d037899ab4d4d7587320dc08b179d6ab2e6e59ab0ddbbaa71739ec6cd90ef8b67fd26b6de
+3387801c62059328c3f336e399ab19aa7b7e75ece80c9a37fc01129d9bc3059d67655250602f1659e4274b0db11fe0d2c9c2dfca4c27f6928dbab065e1be7067
+e5bfe810e0d1d6e0bd5e2fd1de45d6c8090d5b927bfaa271ee7f8e3ad7f3d1ada31e6efa2dbf81b823e9e85426c20bbc708bf4f56945fb3d883de245b12ced5b
+a2971ccb7917c6f6bbe54a9405c7727100998400998400998400998480d34b3eaf3fbdfc1f81180288218895083104f18118023eb0598903c82404c82404c824
+0478e17cc0218843826462910dd4e326b7085247cc4991890c221afdd1f0e344fa7b991926293291e085e07a98dc0a23f5e675218fa4c844ee62dd158b4830d2
+f3b9a3a5643e4f8a4c88dcbba3f6cfb2b06e953a9bda0064e2412fcc8d149b9b949cec3d7f5264a2f13a693f76a0dad490dcdd6f52643a0516d0600347f6ee37
+2932a1e702121324d333c0b11c1f38968b03c82404c82404c82404c824049c5ef281d3cb38400c01c410c44a841882f8c066850f6c56e2f007287612c3f66076
+b90000000049454e44ae426082}}}}}
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1074\'e2\u1099\'fb\u1073\'e1\u1088\'f0\u1072\'e0\u1090\'f2\u1100\'fc \u1084\'ec\u1080\'e8\u1085\'ed\u1080\'e8\u1084\'ec\u1072\'e0\u1083\'eb\u1100\'fc\u1085\'ed}{\rtlch \ltrch\loch\lang1049
+\u1086\'ee\u1077\'e5 \u1079\'e7\u1085\'ed\u1072\'e0\u1095\'f7\u1077\'e5\u1085\'ed\u1080\'e8\u1077\'e5 }{\rtlch \ltrch\loch\lang1033
+price}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1080\'e8\u1079\'e7 \u1090\'f2\u1072\'e0\u1073\'e1\u1083\'eb\u1080\'e8\u1094\'f6\u1099\'fb }{\rtlch \ltrch\loch\lang1033
+titles t}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1075\'e3\u1076\'e4\u1077\'e5 }{\rtlch \ltrch\loch\lang1049
+\u1087\'ef\u1086\'ee\u1083\'eb\u1077\'e5}{\rtlch \ltrch\loch\lang1049
+ }{\rtlch \ltrch\loch\lang1033
+t.pub_id }{\rtlch \ltrch\loch\lang1049
+\u1074\'e2}{\rtlch \ltrch\loch\lang1049
+\u1093\'f5\u1086\'ee\u1076\'e4\u1080\'e8\u1090\'f2 \u1074\'e2}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+(\u1074\'e2\u1099\'fb\u1073\'e1\u1088\'f0\u1072\'e0\u1090\'f2\u1100\'fc }{\rtlch \ltrch\loch\lang1033
+pub_id}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1080\'e8\u1079\'e7 \u1090\'f2\u1072\'e0\u1073\'e1\u1083\'eb\u1080\'e8\u1094\'f6\u1099\'fb }{\rtlch \ltrch\loch\lang1033
+publishers}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1075\'e3\u1076\'e4\u1077\'e5 \u1087\'ef\u1086\'ee\u1083\'eb\u1077\'e5 }{\rtlch \ltrch\loch\lang1033
+country=}{\rtlch \ltrch\loch\lang1033
+"}{\rtlch \ltrch\loch\lang1033
+USA}{\rtlch \ltrch\loch\lang1033
+"}{\rtlch \ltrch\loch\lang1049
+);}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+2)SELECT title, type, price}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+FROM titles}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+WHERE price>ALL}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+(SELECT price}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+FROM titles}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+WHERE type= \u8220\'93psychology\u8221\'94)}
+\par \shpwr2\shpwrk3\shpbypara\shpbyignore\shptop0\shpbxcolumn\shpbxignore\shpleft0\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{
+{\*\flymaincnt5\flyanchor0\flycntnt}{\shp{\*\shpinst\shpwr2\shpwrk3\shpbypara\shpbyignore\shptop0\shpbottom1279\shpbxcolumn\shpbxignore\shpleft0\shpright9638{\sp{\sn shapeType}{\sv 75}}{\sp{\sn wzDescription}{\sv }}{\sp{\sn wzName}{\sv }}{\sp{\sn pib}{\sv {\pict\picscalex90\picscaley90\piccropl0\piccropr0\piccropt0\piccropb0\picw708\pich94\picwgoal10620\pichgoal1410\pngblip
+89504e470d0a1a0a0000000d49484452000002c40000005e0802000000ab5595d8000015f749444154789ced9dbd4ee34a14c70769cbfb06115050845788a020
+94a14f012bd1027d0a90a85682223d498bc4a6489f94848228af9014141b94e7c89d197fc4b1cf38673cce17f9ff8a7bc3acc7737c3c9e733cb6e7ffebbffffe
+13000000000059f9b56e0300000000b0dd20990000000080137e32b1b777f1d43bfd2c3f74a6d3f51a04000060ab4140c9ccb6b82e6927662600000000e0c4af
+bd8be75eade4fd51eaf56a420ceae5fbcef4f8ee6fb35ad0c5b2c0cf3e50884214a2108528341522a0fc78d799ecfc35eddc9f7588298be1cbd5d98b88814214
+a210852844a1a91001e5c7bbce64271e7300000000c0093f99987ac906000000e006024a66b6c575493b3133010000000027904c00000000c009241300000000
+7002c904000000009cc00a98000000f204012533dbe2ba657d1aba777cf7d6ac8ef5ca15b9ec1000000000eeac2640db2513fca429b9e5dedef1ed9bb794d66c
+752d000000bbc9b6dc85030ef9cc4c4cc9a5b362dbe88d1abaf7e4d22800000000d2e10468772c92898be70f6f416e6f396e31a89fdd77c8f906724bd36e7572
+eaaff43dc083120000d801e880a226e4f75b9e06840e2eea8f6e45de827eb70faa3ad24cda37572f43b1c3b1c39bd1493ae4e2f9efe167ffa41694fe6e8c44d1
+f44020f47f18a01dfd69914c74eecfba89592972be81dc92447717b959f95e751d59e5e9a28b292f0000f8e1d06162f4de9f344f2ba223a35bf1fc645cbfeac8
+d020ffa154ddaf9f9d75749878bc7b9771b2b8dbb123ee9097a13cf642f552dc94cbc3e954e60ad795c67d877e20a03209a1aa8725eeb178dd9f86caee522855
+bdcc5431f92e0a315cab49000000d681bc3b6db4063d9d4d54ae4ffaaf8de05f06f587aefef1f53d29ec1fc91f3b1e3b120ed1c73e6835863a034859945be60a
+a7a549fba63b57ea1c8bd79d4c087f3666b843192500000003ddcf41edf4624f9c1ef45f47e41693ef2fefff881d1e81432c18ff4bfad6cd9f19928983436ec2
+c2d872f46f5ca8e9d9187b430000006c37f130319d765436f12444eb81086c95eb6a615c578110b14333730817cfc397b7c5ce4bc4efceb1d82e999046bcb62f
+9bcd5e55842f60ce5ed950efd104a90d7bcbcec3cde15bb3f7e1cdad20d3040080dd201926bcf2ae2add6f3d44b72dd5fc19f8f045c21d8f1d498710980274f7
+a17eda6b7e5485b703e9f9a9732cb69e99887d6392a297cadc72355fad000000d834c8e1bf787e22da7fe603241132773b76100e49865863d8a5ca1dfdb901ef
+4c00000000421cdffd551f32aa7be51d7a97f267e0271329130c000000009fcc0185bc37dea9f0c439d84d7048d206cc4c00000000c0092413000000007002c9
+04000000009c4032010000000027904c00000000c0093f9980ae3c0000805c4040c9ccb6b82e6927662600000000e0c4afbd8be760b54d5f57de1332f7170f51
+cc56da42210a51884214a2d0548880f2e35d67b2f397b7f24472ca825c3c04852844210a518842532102ca8f779dc94e3ce6000000008013584e1b0000409e20
+a064665b5c87e5b4010000009033482600000000e00492090000000038816402000000004e60054c00000079828092996d711d3e0ddd0ef68eefde9ad5b15e09
+64ddb6000000000bb048267426122c7c152c7a95baf1e2f46a6feff8f62d585f4beff4ecdee2ab1853756eeb17cf72abb0c58be70f596749f15bee3cea3babc3
+cc46e884ae28065e9aad6b66aca5f3988298b46f7ebf0c91ca0000b6864844583cd6ed32c1382ff448df184ea7f3c134cbf86f3b33112ca8a94c79bae8ba9ead
+e954adafd5c83ab1e3587dc5a4a75f51a6e4526459897a89d9b43ebfbd7d4c8d0000b607abb16e675179c3e37eab5c961153dee53edebe5fc9c4211275d46df6
+75e5c5f28e37eb638ea3fdc2e4fb6b7e0e20fc2d82190c6fe1ee0c37e2b3bc49e748f250f975c339807c5b8f4ecc8469c1c5f3dfc3cffe496d2ec5b331355e7d
+64984548b6ee79fbbb7d500d6afb76468c97db7ea61da3ec4fde895339a9fc234c1d64bffad33e699e5644670b964f01006c1d9c112c65ac23438fe97e323a31
+9c6df49eed219cff4eda79f1fc26739852a93069b7c7d56a490fe2dd0a79986b44e70df7deefafef4961ff488839938a87073abcdb619b4c946a5e84565ef2e6
+46888d3af7675d87d9029d379df46fcad9a6d997d1ba0eb77287e57bbfe386b33285eaa5b82997873ac5bbae3452f216e9bb0fedbb487f4a5627326bb2f5aede
+6575bf7e76d651ddfaf1fcb8311a89ca53d3377e2f3d3d1fbdf72741b6503c3f19d7af300901005829c108a606abc7bb77793b1519c154b47ebbfb52f758d496
+16cd848b35cecfa973476f954908d57a58a2cc48da29f75812f572fdb45793ff76f3fdf87858240f73739e201fed17069f5deff7ec9655a55636fed5383ce6e8
+3d89f243d7b64106326f7aef8b66b377b28e248e6e5d86db42a9ea275292c977d14fe6062d3f9f5db8082af99883559d6c7da477e99d81d1bf71e154a697a3ca
+6969d0ba67f45479988dd6a0a7b389caf549ffb511fe53200a27ed5dc6e90500008f60040bef908f662398bc7f6e0daa7a5ca3b6b4097651a14bb9ab59f38ce1
+5786d8d3928caef3836185b253ed5145e653b5e391b8351fe69ae7267c8eeffed60e664716ae90addcf5766b3bd19ef53187baafd5599775fac2c27b7a230ff5
+e3a3b0aad7158f0f0f525bb77f8a912789d6c939213bba9f83dae9c59e383de8bf46cee396ac0d0f00f849e899f523f6966cd40db78a998cf95a23e37fb945ba
+0c0f109682d2163fe9d3414d8586cbf362636893f4644d26d4bdf2b8e5fbf7e050dfa6579e64ee177d48ef97674606f5f2fbdddbe3e1f1de9e7d1467b42ed344
+154dbb6aca4b1dd1a015c93ea3ad8fd4ad7f2dfd29c612e1b71e1c91fe8223763ae2c83c5465134f42b41ea2eef5e7f4d673a80080dda3725d2d8ceb2aa0c811
+ecf2eeb8eb3d3eb82c4dfaafa62d8539f498db616f19e28d9397b7c54e749afc8bb27361263467fc3a49cb24849e7799ccdd6172c8fcce84ba53d68f9d3aafed
+cb66b3575545ed4169dfdb4e9e80b03c656a21fa398a7a5f526f39ff0daa6ac8944990d5f9ad4f872fbfebcfbdf92332b4de79b8397c6bfa2f3d2c6f9622daba
+3a22bf21a275f244eb1727ff36f5110dea75992a98f7a98cef2a37edb71ea206e8199a71ee4706000031a22fe1e9f718d498bcdff386eee003453d0b9bd8920a
+3da6f1536603b54490e2d37da89ff69a1fda262fa04c493b8dc944d2f87522bd74ada266d537df7b4f54265a61e0cb14e02c92099334eadc678c2f8672e33e89
+adf81aac64757eeb829ad237b54e36c57f20406e992cb4697db665b4d6dc86feb71846338be727a2fd27dab9535c0a0000b9420457c310486c49851ebaf25ce9
+0b55980a392c13b12328f1fff77275a522f7d186e410218628e3fa781b2b60ee286a9aabeabd11b219ef020100c0fa88adcae8b39237f67e067e32c19f0c003f
+03cc3f0000960427a0d8cc40af223c2da915dbdd6e4b2c4eda899909000000003801d55000000079828092996d711d5443f3070a9f1cd6eb257eeb389b3136d0
+218e266de01101f003b04e26c845ce7327f7ec8c943ce5b7b2bc6c51bf08294289b6e848174a66ccc44e7cdb8d6690d5f9e76803bd944d5776399658ef73191a
+867cf1de0dbcc591a3c7e5f76c6159d5f9f75b4b7ac16d030fdf059bcb7077953377f9d8ad48aa869a0af9d82513c925cab78aa8e469b8e4bb2b2e9f52caaeaf
+5431eae2f2bcf8122e3636991c5cde1e77e7ad0b82a81a7ff542e6c6eb84ac6ec16679291761587eeb6bd46bb52167f1de14f27588b7b0de7163e4491ec7d789
+5b89493ffedbe75d56cedce563e743aa86928556bbb54826f43a5f845e838b789a95e8686eba9d6a2df06ab8bafbe1eddb4790ca7afb4c1e91572fdc3230de98
+052725e66894c2d667e3ebf03218617569bf3fae5e571aa4f0c9a8b150ce93a8ce14e2db502f25e02ba692ad938aa90f5d835e2bb14f5aae903f696712c5d5e5
+6a5d3aae0e5020de2b0c5787a04e5cd2cecc0eb1be0ce796e99d690c31451d4d9abac9eaa474b0a92bf2af0ea69a31bf7a8a782f7975f02f43c22a6acbf9eead
+ddfc7e9ea2279c23500d5d17a46ae84229d185d8cc4c4446ae1047f134f2ae9794fdcc45b7d3676ee5eca8f0a67743cf95ad7b19d259307ffec6cb25c4a8d817
+8fd185d0df5fdb8fd715d125d67097a7fcdf589ca42e151eab4e9fa3e811cd444737d14b06588aa9f49d4aa82c330cd6edead25bceb96ed1ed8e4199308ea328
+ae77ec09f15e8eaeac3a71c3c8175da19ddd6c0e09cebb3e10d665e8af4ceccdc329a9a4cffb7999a545a28e745f22aa536308ff880c5747d1e6c425c73aaaba
+41bcd77075b02e43d23cc36146aa5f3c4b6fe9202d56a8270cd5d03513550d4d2f5c88f30b988ee269fc0e91836e677c2d70bd4a6b9af0e602d93a2a9ad31273
+147a9a577cbffb3aa58fd1271da3464bbcdd16ff2cdc094dacfac2230a8f7df3bc64c649313574b80a9dfd3fc63b12f63e855999906c9d14c565cfc027c47bd9
+bab243cace6c0e999d779bcb307cd2a1e4213ffd85dc5d441d53aab3605f1d433b35e3f885301d12d549f15ef3d5c1bb0c49d38c871927454f78094035749dc4
+5443530a39d8241339fbc15e3ccd551123c75772d28de749cca900502804cba38bc9dcdc40f773dcbb3e6f272a79da19e3cf050d98aa33d8302f2d07996e8ddf
+a4c385bcf36afdcec10e2b65c2dc4471c31905c1d59535d999bb438cf84f3afeed07b984a3a8631e9a905cb29e38ff42a0abd3e2bdabb83aa611d10a7de10701
+c4a027bc64a01aba5248adaf050260a9d824137a46aef654e9442fa11cc4d378a2a32bd3ed248fc8687c1c5a628e424f27df9c798f0975179fcbb69506d7e349
+4272abf2a43ffe58983646ab2f3ca20cacca4b9626d928a68eff9e57c4c9f8f325e5b231ee334dae90a94c9814c5b57e676226de9be5ea88da69e310a7bee46b
+d55ecf9e71984cca4016e162fb23b253334e5c08b1ea49f15e8bab836f3cb5a5faa1826c3c7298f48497085443574bee9984b014fa1a367edf88b7e6872f5ee9
+bd75e2289ec6151d9d52ca99cbe8e8b41c1c255b6752e34c4acc255bf15e650f45dcfdab37f29a849e6c1c576b053f9928d57cb7f30e3c5add7c44d9598d9784
+59189634c94e31f573dcab55a5954143d496d43ea39d33ecb4534a9990dce728aace972a8a6b8610efe5eaca9a1514990e499e774be3f57d6fad34a83f2c3429
+86952664720ce11f917152c7e2c4a55d08b1ea49f15ee6d561b80cf927eea535fe08e746a3273469d272806ae81a30a986260bad4cb57b678216f974134fe38b
+8ebae876d2b26f91c2b9df3c2951a3c2276b5d7a7530d1924ed4597133b88bb5abbd12d5171c51e4f7667949307465332ba6c6da6789e276a8864811c2340d43
+b3498c7726dc7565490545c17608596c252790dc0353d4d16492e988622ee11f11ffea30131feb523a3c25de1bdfd8f13224b7dcbb78ae456626d42a20c19b5b
+499396035443d70054430100e047b166f1de6ee49509a1efb95f863bab270cd5504756a71aba2d62680000e0027fac5bef025aa49db99804d5d0ccbbdd964009
+d55000000000e40c5443010000e409024a66b6c5752b550d853adf96b22d276e5bec041c703601d86aec9209fe3af0ebe5f8eeefa3f8936d0974fd2da2acbdfe
+154f17a6a8f38a9a76dfe9ad585e2fb3d8ec2a4fc79c4ec1325fbc5ad2cdc75c7f48fbda36b956bd933d735ab5eca53218dd7b3b6ed14066f23ac54bed2a9b13
+117284560d0d06906cc1dd46e8cbb82c3fcd8f57e75b2ffe891fd7cfaeb2c4bc1479bddc4fdc92c466f3b533dabdf3dae7aaa95c67ee0fae4c26077a01e6e2b9
+180fb22c948be10280d560540d5539d34dfbb169bd1087c6229928de5e465723ffd33e51e254a3234acf6d45ea7c5690b28a26ad450ffd9594f0172471338990
+6a644b5fd2c8c8214d4b488bbae8e3d92a7c726e43f962b3a6c290f07428cda4a41628cb9fe673573c3c10e29bf009dd43920e219d9cac4e0a5a0a9b3e6ff292
+3c82854bf59a5a17a42265ead531c7b8df1787c77b17d7fbff5ebf27d766d731955d8d5e624b071b0ad99721dd10b73a5888e914334f9ce00f95f3cda5c87e9a
+0a43a211c1dd03ebc2ac1a7aa52ec6acbbb54826624a6281d68c48caeb0d57aacec7c220ab5834682d2afcb545435546379308a946f5174bfa92a4a8253aa46d
+fe77e1c1630e177d3cd37485d3d4025f6cd62818a8889e0eeffb356a5a25d59f812e2269a6971fab05f5e2f37e8456adc12171273f74a9ea26515c5e07235da7
+54a3fd01d05ba7cff8cc8b6c3de13a4f9192b83ae86964798ac5e7fbf7e9f9edbef87c10879726d775d9caae7948071385eccb903e7666f5152d41bde598bb22
+f3c471874ac197fdb418827e08d90442497279019350262458963a1f0f52565198b4160bd5f9a092a2f4c8c4205b975dfa52048a316aa9ff869ea14a6b88afad
+9ab0dcacf0997d6a9aec0c46c1c0f8e93043eaa072097598d4323edeed0bd56df6464687c49cacd74ca7a56e63587430ca75a1e5995f15225c67d6e94d22bbe2
+e8fdf0b1b9df2a0b5f2c91ac7e64d1bd092ca5839385dccbd0d010b33aa6261c619d38f6506921fb99c310b44d64160825b14826bebe279711d99c604e95a5f2
+664b6eb28a5192b28ac726adc549bb3dae56e79efcba98b40c614335705dc66f8396a6a0e8209a9783d82c713a98187511cde8e44cba4ea9f83484a987b01dc2
+1e8096d2e71db1193dc305e28f3dfda52fca75eea385c3806e777510e77d75f2a420ca06c87e661f8236164759af2416c9c448dd3a3ddebdfb2f103c56c7adf2
+c82299c8439dcfcb4fb3bc6b4a8a8ea62891be3f94ff3df57a4f627e0acedda405b2757ce94bbd14aef7ee4c9686d8a46818b25edde78bcda608061a4ec7424c
+ba880b08df9fa07a8885a8639ad42d2d68b95891321f0d58869c265ba7577b8b57dd46d995b0333fe9e00557c7a286f2bab800ab2b4698799edd972c643f9730
+046d26b96712c24e3534a193a6a5f0882d97a8ce277b8028717a5fa11a88bcf96f7591a2a3695a8bd3ce7d593cf77abd5325a966567a6498c4d74524a52f4dfb
+7c288ba750cb4eeed85980312a689941e1d36027576c5688b41e623a1d11e3a9d687465dc4b843e6e651c3cd68ad5aaea8a341ea365dd0325d9192942b24b734
+916cddca787e2b44751b65d7dca5832d2e43c370e1283e0962f0bb62d2f3fca152b0653ff943d0c62e8bc0c1a01a5a9c7d585e933d7fd9aaa16ef27a39a8f3c9
+3b06f9df453356e4a37cf2013f553853de34492d6630295d527291f4250db98abb9b00a39dc227f39d09a6d82c59389df24f07e1cf145dc4854dfbe564b759e8
+f9d4ea822d684962da362219bb8094d6e77ef3ce6facddf04fb2ba95b2ab8b74f0e2c2d4cb707143a9d50193a49bd927ce75a8741b82b618434775fd387b9bb4
+39bccf16d4c7571b93156ea049600e4a1771ad0601009602643fd7cbea5443ddd9c0556d36d02410652b3a36003f8cb55c773fe362df96a3806a280000000072
+06c904000000009c4032010000000027904c00000000c00924130000000070c24f2696aa070f000060774040c9ccb6b82e6927662600000000e0c4afe82ac225
+7f6952b55668206c2d82e5a855f6814214a210852844a1a91001e5c7bbce64e72f6fe589e49405b91c130a51884214a21085a64204941fef3a939d78cc010000
+000027b669396d0000009b0f024a66b6c575584e1b0000000039f33f900ec124064996660000000049454e44ae426082}}}}}
+}{\rtlch \ltrch\loch\lang1049
+\u1074\'e2\u1099\'fb\u1073\'e1\u1088\'f0\u1072\'e0\u1090\'f2\u1100\'fc }{\rtlch \ltrch\loch\lang1033
+title, type, price}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1080\'e8\u1079\'e7 \u1090\'f2\u1072\'e0\u1073\'e1\u1083\'eb\u1080\'e8\u1094\'f6\u1099\'fb }{\rtlch \ltrch\loch\lang1033
+titles}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1075\'e3\u1076\'e4\u1077\'e5 }{\rtlch \ltrch\loch\lang1033
+price>ALL}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+(\u1074\'e2\u1099\'fb\u1073\'e1\u1088\'f0\u1072\'e0\u1090\'f2\u1100\'fc }{\rtlch \ltrch\loch\lang1033
+price}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1080\'e8\u1079\'e7 \u1090\'f2\u1072\'e0\u1073\'e1\u1083\'eb\u1080\'e8\u1094\'f6\u1099\'fb }{\rtlch \ltrch\loch\lang1033
+titles}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1075\'e3\u1076\'e4\u1077\'e5 \u1087\'ef\u1086\'ee\u1083\'eb\u1077\'e5 }{\rtlch \ltrch\loch\lang1033
+type= \u8220\'93psychology\u8221\'94}{\rtlch \ltrch\loch\lang1049
+)}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+3)SELECT COUNT(DISTINCT city)}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+FROM publishers}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+WHERE pub_id IN}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+(SELECT pub_id}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+FROM titles}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+WHERE type= \u8220\'93psychology\u8221\'94);}
+\par \shpwr2\shpwrk3\shpbypara\shpbyignore\shptop15\shpbxcolumn\shpbxignore\shpleft4\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+{\*\flymaincnt5\flyanchor0\flycntnt}{\shp{\*\shpinst\shpwr2\shpwrk3\shpbypara\shpbyignore\shptop15\shpbottom1080\shpbxcolumn\shpbxignore\shpleft4\shpright2584{\sp{\sn shapeType}{\sv 75}}{\sp{\sn wzDescription}{\sv }}{\sp{\sn wzName}{\sv }}{\sp{\sn pib}{\sv {\pict\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw172\pich71\picwgoal2580\pichgoal1065\pngblip
+89504e470d0a1a0a0000000d49484452000000ac00000047080200000015d03bce0000051149444154789ced9cbf6eea3014c68dd4b16f8068873b8457403094
+8eb03300122bb03380c454890eec246b252e033b191b0610af000343a9780eeeb1f397e084047a4b29df6feb696c1fc79f8fed53a777f7f7f70cdc3677977600
+5c1e88004004c011412251ec19b959be33d9ed2eeb10f84f840c312201607789e2abd1ca983f640ca3c5d8a29f6f4f76e9e65fad9414663258f281f11a8d4143
+ec8a6037693f4d24b16239a83c0dfc9281f11a8d4143ec80e500d822d8996a01bf979021462400100180080083080043c6f076b8d6236222916e0cbbeca53a58
+fe5a6926d2cda156daec676fa296fda2a91b5b04c5d7a99d7db2124f6637925e4bf1957c7b6a4f9c22dcd375c3e9ad185d2d35ca7758cf496609b6e3ba3be485
+9e969dd72be2476fdacbcd85897aacb685d96cd4eb9269dc2f6e35a4ae94c3e2de5171fc3447c8d7f770e74f26fad0d2a9afd3cf19c3c6baaa2ecfd0413c11f0
+b7c0fa4f9ee326f7988f549e3a2f5edfb0491e0595df6e1fca8db4aeae6c4348328b868db73558bac5ed31e69951a3c7f8f33c3fa6ee17f7bac48e3424292ef5
+53da77c68e64e2a2b093a6fda2179fb4fbb969ada0b6cfc8f2c410018d7139431340f71a9506d9466df1baa93f2fe36cf759513f82ea98cf3725f2b8a3073de0
+52c86516b38ef4572b95dad172053691f65c797c60ecf3780b21f8fd94f63d2e6e2031438e1bc6dcccbff38c99e4f704271e379de0e70427429f2d5a42b22707
+833891e04f2ab9fd5c1fd81633f7d5ac3e36c9dc1f162802f6fe36eed60a4c5f073e21a0e915ac010a83cb8f0dcb3e2a349525bf155ad434a32442fe69afc6ef
+a7acefb1380c243b4f18738c14b0f4c3d0b27a9f6f6dd12bcfd94dbfe2dd407015d04b97bd8b687cfbc670a58ed8b0a1bcfcd746cc102b568d92b388c4e34bfd
+149a26499e1848482eea68610815146ad9f9dbe17afb10302322114704ebcf6d32e5531cd9ca9ef629128b09e34a9bc2178fce1ef4d9c6a83d8f4f74d8ad7333
+5b853f4652c8ab34abcacdb47ec27e6dcf4f59df63b2f938e2ef116f68ba17132cf7307f93d47356e57144208252ab5798782616d998d66dbe57cd8d61b7b419
+e5574cf9dc728f751ed0287c2517239a038ad39fb771b99b25c7c31a5bf32a02567d3a359458b47975cefec0eba7acefd1a16dbc58b895c920a28afc33dbac21
+d7636cd4f12f70f6cc3b991822e041a95a67436d3a6d991671201c54fb2983875d669e91f8c02fc9f86a985b1bdb98f0d633da945ac910115801d0b7dfc9b4ac
+a6edc5de7b44e43b29c96930ecd8262dbeef83e56740df6344179d1fe6b469c92a2c368645e788c95bb73b45e34dead3cc57ea71896b92768407fba4428dcfbc
+ef3b22ee64071ae99f280f8dbc6845fe5be95f39cdc34fb7f15e11b347de4a647fa40dc98b07f8297d38c8f9a34d871794b64421958d5f7c07517e907e3879b3
+61f1a333867aa7fe38b4d69a4bfb7249ac1b633c2aecad263c96d091237f56a688fdf04b253befacbc6182f249b1460d974a401810018008004400184400186e
+16dd0ed77ab3087c0ff816f1f71bf12d228cf8161144e047a78dc11782b43108032200100180080043c6f076c011118401115c31ce45d9b8b75e7d4004d78afd
+c9767ddcd552e75505115c2be6054c2e85b3ab82080044002002c02002c02082eb65ef5ff5b48c69cbbd57121788e05a09fa36f2042002804b2537032e958030
+2002001100880030880030dc2cba1d70b30884816f117fbf11df22c2886f1141049036be15903606614004002200100160100120fe0165fa640d6b4d33950000
+000049454e44ae426082}}}}}
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1074\'e2\u1099\'fb\u1073\'e1\u1088\'f0\u1072\'e0\u1090\'f2\u1100\'fc \u1082\'ea\u1086\'ee\u1083\'eb\u1080\'e8\u1095\'f7\u1077\'e5\u1089\'f1\u1090\'f2\u1074\'e2\u1086\'ee (\u1091\'f3\u1085\'ed\u1080\'e8\u1082\'ea\u1072\'e0\u1083\'eb\u1100\'fc\u1085\'ed\u1099\'fb\u1093\'f5 \u1087\'ef\u1086\'ee\u1083\'eb\u1077\'e5\u1081\'e9 }{\rtlch \ltrch\loch\lang1033
+city}{\rtlch \ltrch\loch\lang1049
+)}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1080\'e8\u1079\'e7 \u1090\'f2\u1072\'e0\u1073\'e1\u1083\'eb\u1080\'e8\u1094\'f6\u1099\'fb }{\rtlch \ltrch\loch\lang1033
+publishers}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1075\'e3\u1076\'e4\u1077\'e5 \u1087\'ef\u1086\'ee\u1083\'eb\u1077\'e5 }{\rtlch \ltrch\loch\lang1033
+pub_id }{\rtlch \ltrch\loch\lang1049
+\u1074\'e2\u1093\'f5\u1086\'ee\u1076\'e4\u1080\'e8\u1090\'f2 \u1074\'e2}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+(\u1074\'e2\u1099\'fb\u1073\'e1\u1088\'f0\u1072\'e0\u1090\'f2\u1100\'fc }{\rtlch \ltrch\loch\lang1033
+pub_id}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1080\'e8\u1079\'e7 \u1090\'f2\u1072\'e0\u1073\'e1\u1083\'eb\u1080\'e8\u1094\'f6\u1099\'fb }{\rtlch \ltrch\loch\lang1033
+titles}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1075\'e3\u1076\'e4\u1077\'e5 \u1087\'ef\u1086\'ee\u1083\'eb\u1077\'e5 }{\rtlch \ltrch\loch\lang1033
+type= \u8220\'93psychology\u8221\'94)}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+4)SELECT pub_name}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+FROM publishers p}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+WHERE 15>SOME}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+(SELECT price}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+FROM titles t}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+WHERE p.pub_id=t.pub_id}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+AND type= \u8220\'93trad_cook\u8221\'94);}
+\par \shpwr2\shpwrk3\shpbypara\shpbyignore\shptop30\shpbxcolumn\shpbxignore\shpleft19\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+{\*\flymaincnt5\flyanchor0\flycntnt}{\shp{\*\shpinst\shpwr2\shpwrk3\shpbypara\shpbyignore\shptop30\shpbottom1050\shpbxcolumn\shpbxignore\shpleft19\shpright2299{\sp{\sn shapeType}{\sv 75}}{\sp{\sn wzDescription}{\sv }}{\sp{\sn wzName}{\sv }}{\sp{\sn pib}{\sv {\pict\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw152\pich68\picwgoal2280\pichgoal1020\pngblip
+89504e470d0a1a0a0000000d4948445200000098000000440802000000f25c6b220000051d49444154789ced5bbd6ee240105e4b29f30616505c01af60e10252
+42ef229c444bd2bb00892a1229e86db79108857bbb8c29407e0528521c88e7e0f6c770066ce31f02e7f57c4dc868bcdef5b7336befcef7f0f8f88800f9c7c3bd
+3b00b80e80484e004472028f4841688f1c79de1c58bbdd7d3b040843344710919ce04168bf3baac4fe911c4745c81d37fbd6aef6fa692822356383370bc07817
+6318474744eeac7ec30a08dba5d66968a7b483f12ec6308efc80d4ca093c22778c74c07f8c688e2022390110c90980484e00447202d8d9c90de0f3a310f81122
+21be6f0f88484e90804816671bb3acd09dc0add9eb684b7ff01d7edbd4bff23299f93ce3b7897fb4df67fbcd456f5f5168bf4f64842449dc9ae65a51a4bd9db4
+e0f99eef401607492352524ae346c3a28f6ff8faf55b5fc5f5d496618f78ef597b9d0c9f6afa6ae9dbc3204663d4b6c9e41025346e8e6547ad2f7abdcd7058a9
+0a027a99e0a9d3ec7bd3887816339f2725d21d7bf1f6bdd98aa55f08851279e6191c933ecfd59fb5283347ff7e3f76d8ff9d633f19b9533c7d5ea8a5fa541725
+851e08506c37d5881bf18c2c6be476f37d754f02125b6ad9ec357110b3dc1bd9b6d9fbad2f0b19857ea425b2d555c4f5d80bc77285c6416b8483c89d477926bf
+4f609b07902056bb2dbd5ff80dffc46ba4eae5b1c341a8f5613e1b86a390d8305da914ee191778899cbbaa1ad06680e7a0579918ce8ce5d6024767f235f28c95
+a38350ef47dc4331ffd18cfff7d1f5da91c9fba3753aecaac0c3d9e2e146df91fe8f847f70c70dc88957428283e52c87cf70709d1d70b05c0800919c0088e404
+402427002239015408e4065021500880f6230746d07e706204ed478100da8fdc00b6e80a0120921300919c0088e404b0b3931bdce2f383569f2aeb02d707df1d
+492bcd7dc5a63f495bfc0cf16fd723b27084563fa3375a9a2508b59789519aa6ecbfafa0be8adba19b30890bccae8e94c557870270d6fb7b5540114a9e4905ac
+be6a8d9ce7d79a1d5ecf7e7dece8b0f58b95b73741dad4faab24d2aa6336bb4f6665844ae45ce6712ede38083fd8bee2a51a2d5ac68e2a65b49e27af9e3d1799
+50e36765bea8abfb8eb238a6cb87b8f70d2db50d1a11bd16a700a690c9940fc290a5ae95559086cdca5345c72ad8580d106ff41b76bcd48a63427f332786e3e0
+c7dd1c5ca86815155a2aeb81e910ce4526f48ea2f28c7acd266e1033dd6de903bb3d32ea8b18c5ef94a7d311d9abafc5d6905bc8b2a8cc613dee5c7b55ca905a
+9d118a7ad0a78a8e55a0319b78833efdfac27415058765f5e93372a61f628bc5046b2150648288be844d0bc6b4d0962577da8f93b78346b45b2ef5a9eb50265b
+ddfae2438f3bc2d8489b5ac9141b56aea298c9501edeea925765cdda7da14fc331c844b1135c9e4c64121f8123b2e7ae2ab7052497171f69051411484b249977
+eb69f60e458937ca1727caf766abd269bec219b68e3f80e6a95f1d2f884ce89dda824ddf54d3c851980e421e2134bdb404a442ea3592ccbabdb8d5cb4de4dd84
+4ec6f8fc868937b0fd20298978d959d11572c62e764db3accede51fceaf5042293a5f666e2a06787ba63cc083a7ea9398c7d192e47b1c9904ad341ccde254302
+22038f5142ce5602151dc1328fb04f97385f34bbd38bb5b02b8863e7e8aad38ea283702558b9727427eb7444a7f70aea3ace62c87cfba1cf4dd86bbd05bcea0d
+925a7e4a850b07cbb7c055f64be060b9100022390110c90980484e00447202a810c80da040b91000ed470e8ca0fde0c408da8f0201b6e87203d8a22b0480484e
+f017d76c486aaebf37610000000049454e44ae426082}}}}}
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1074\'e2\u1099\'fb\u1073\'e1\u1088\'f0\u1072\'e0\u1090\'f2\u1100\'fc }{\rtlch \ltrch\loch\lang1033
+pub_name}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1080\'e8\u1079\'e7 \u1090\'f2\u1072\'e0\u1073\'e1\u1083\'eb\u1080\'e8\u1094\'f6\u1099\'fb }{\rtlch \ltrch\loch\lang1033
+publishers p}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1075\'e3\u1076\'e4\u1077\'e5 }{\rtlch \ltrch\loch\lang1033
+15>some}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+(}{\rtlch \ltrch\loch\lang1049
+\u1074\'e2\u1099\'fb\u1073\'e1\u1088\'f0\u1072\'e0\u1090\'f2\u1100\'fc }{\rtlch \ltrch\loch\lang1033
+price}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1080\'e8\u1079\'e7 \u1090\'f2\u1072\'e0\u1073\'e1\u1083\'eb\u1080\'e8\u1094\'f6\u1099\'fb }{\rtlch \ltrch\loch\lang1033
+titles t}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1075\'e3\u1076\'e4\u1077\'e5 \u1087\'ef\u1086\'ee\u1083\'eb\u1077\'e5 }{\rtlch \ltrch\loch\lang1033
+p.pub_id=t.pub_id}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1080\'e8 \u1087\'ef\u1086\'ee\u1083\'eb\u1077\'e5 }{\rtlch \ltrch\loch\lang1033
+type= \u8220\'93trad_cook\u8221\'94}{\rtlch \ltrch\loch\lang1033
+)}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+5)SELECT pub_name, state}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+FROM publishers}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+WHERE pub_id NOT IN}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+(SELECT pub_id}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+FROM titles);}
+\par \shpwr2\shpwrk3\shpbypara\shpbyignore\shptop0\shpbxcolumn\shpbxignore\shpleft19\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+{\*\flymaincnt5\flyanchor0\flycntnt}{\shp{\*\shpinst\shpwr2\shpwrk3\shpbypara\shpbyignore\shptop0\shpbottom1845\shpbxcolumn\shpbxignore\shpleft19\shpright3679{\sp{\sn shapeType}{\sv 75}}{\sp{\sn wzDescription}{\sv }}{\sp{\sn wzName}{\sv }}{\sp{\sn pib}{\sv {\pict\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw244\pich123\picwgoal3660\pichgoal1845\pngblip
+89504e470d0a1a0a0000000d49484452000000f40000007b0802000000ccab3aa400000d6449444154789ced9dbd6eea3c18c78dd4f1bd035418ce00b7806028
+1d6167a047ea5aba331489a9121dd881b51265c80e63c340c52d84a1c3a1e23a78fd91a426b183cd5712f3fc96437d9cc4c44f8c13fff37f6efefbef3f040026
+7213770300e05cb8c19dc9d47b766551ed4cb7db781b04c44e5a82616f3b61e4068ce526537fb3db25f647c9b6db082dfbd597e9b6f8fc316a6469312e702f0e
+2834bb302dc1206b27dae5663b7db99b0a467867f0703708548642c30bd3120cb27606806909602c6e706fd9b50000e90986bded84911b3016086ec05820b801
+6381e0068c05562881206909067814085c2f6709eeb45cfac0c951effa0b04098cdc80b1680437bbd47eac5c832ef46faca78781c35f7ffee719ad9f6f8de75c
+4df57de20ff5b7b9a71d70650399fadbb88250a994dd58d6bad12879e5640f6e5da1c000381399e2f3d8d37cb08ef37b8de93d707fdcbd904596706fca6a9eb6
+377547ee52e3b67f7737a58de83e7ffe1dae546b0e1c5943bd9af86475ef8bc395c32d3dd133d8abcfc805932da17eb55fb1dbe5afa7a79f6e375fc864506b8c
+2fa7ea8b7b69919a3017ba00994cb1d5c5fd50e5bb15f7da4c34d908f7a6b026d9e7497b5337b8977d775cfefed9646fff20240dee504df1d8cdd55cfd5b672b
+ac222ffbc215bc7f17b85e052d27f8926ad192c27d395b6ab0ab9fb0f929441c083819dbadf3f9854623bb2cff59f611f7669853f7e63173eecdcff7c96b12c8
+55dbce59745460f396c87d5b4f7f870e8cd6178789f58acf1ff379d69f578489b1370f0deeda6323bbeebbc3762e4fafb05a0f5f9ecb45544dfde308f7e94306
+fbf6636d2839b1c0d9c1215efdc4f3c97c3193f182d28d8730a1dedcad79eaded49e73b7dd5f0d5f4b3e7db79af8e7a941ae3a6b59ba95d754054fb917cb765b
+b04f41cdce537e3cb2e7ec970c46f14bc1dff9b1f3ce4e3bee113f1ed8702eeb4d61cdd3f6a6fe9c3b14a93b5a72f783aa6692572df29f77b61fec14b9ff0c1e
+1ed856427d3b706622e4a6e10e11f4a6a4e6697bf342cfb9772f740ff9440d008e47e365856334ec69d1bf03283d9d052f2b00d70b0437602c10dc80b1407003
+c602c10d180bbc890304494b30c09b38c0f5025e8150f85b98966000af4028d42e4c4b3080572070ed80572010242dc100cbefc0f502c10d180b0437602c10dc
+80b1c00a2510242dc170a14781cc9f650d9e38911c7996e024eba217dcbc75d0595f122b3e7f74d1eb7e430c62e3822b4638fe681378232ec2f7483872d026b1
+0535ed37a365fb4c20dcd7a478c1a0d87197417be41676b6716fe97acbbc64b01c3f7f6b5c3c5b7a2e8622838e23cf52a24e32ff35137b291e3b2d110e543426
+6e27ae8120a980ff38ded72f6c39c7ff2f552020ebe9af67fe123c50d8db6eff21579f5f9bc6ed1f94591d6989281ece654df2f7e9f9218a4eb2c46691dfa7c6
+373511ede02eb55d5b0976d6c403158989aeebb752b82f23eb7576022738a1812083443671ae233617c203cd5021ec6db71f62f0b59ccc226a2859220acf92d0
+6e6f679fc43cb1559ce12f25fb3508da2cae50ad3772f749d44595c5d546363ad5b424003392ebde17068e4362fbeb95c45cf158273889e55cb631b21bbc818b
+c8726eeb6878db718e4264bf74b496d554b7440c22b7db139827ee39ba57f350632f3339d773eed570b21ee3b104dd97d793bfde393fc243486e39c72c8d77e3
+4a7420456f3bca21f782ba96889a4d5282b777a2df22ea47c778ce15dce42caf3fee6ba8bc5e0c58949cce092e6839f7d9a9feebd9760fb1888c3c90c8db4e91
+735922f24d3a72e8c5f393261901c0538e70fc0de5efad1b918d7343e66cb1b6db0d3c7ab09aba4e7078b6316fb08f6c1c8d3210dc4e5faae8cdb6ed0a993509
+0e4426a3226f3b457863bb684b44e109e18f2e2cf49b249cff48f6296aa73398ace7eec0ededf684cf49b926fd3e0a244de27e76421d17db65a617dc61896184
+ec30fc3fea0fb384154596738ee719b87338d1810eb12f9436496e8928d95cb550629eb86773bf26be2d69732377fd6ddea4773ea22f7a145b495f26e9712568
+4b0c63c64db9115d5b81a72569d1a703d19ca41fd3120cf0b20270bd802a10089296608017840f04247806a095879217829deb199316a0e08b8bddd562c4e2e1
+f37e4cd6fee9135e5a21176f90e88edc6e4c132d47b7f5998804344954f0198fd839c479e8dfce1f6bc3ceacd86a9670c7c43bfc1d382df1d47264c55b23db2f
+2758e3f2ff2a6510566f53bc0a3e2449835b7ffbc82fbeca6deff06c783b40a8986c669d7ec5eeb5f2393ca5bb8b7b4677607033b51ceb78e56cbf7f7e056bde
+284bd7d9943208efffe94f86826f850a12f163b6d1444fd52afe76f8d27587b703848ac986ac43936e47d653fcb216dde0a6123cb4f31a8e6ab6df5aa5b49cbc
+d08e24abc4cb86276353ce202c26590abe953c0d2e3e17cece70a025544c0d857c0ec789d6e93d1387ccb98708ff6eb73f9ebf7197e8e5875543739fc953f029
+8b1f4fae0a8c1dfc0bd6c53392febadd3e3673fbf11c322dc1e3eeab551e95993afe973dd97ef170d96e3e17676c5ad22c6dbedef71f6bcf3ea5c4a7e0d3173f
+1e21544c1674f2469e9f4ea7dbeffcc768dcfa8ef591c3a13794433cad605da89cedd719fceddfdaaeee61e3bd0f26aaa99c41587ca058157ceae2475912def4
+52eb8dfcfbc8d5900c80a3debf187f8e34829bde697912bcc3b2fd867582ea1984c54d4aa0824ffc18514b509916025f81ff43261bbc24b04209180ba8028120
+690906500502d70ba8028120690906500502d78b5e700b85811a85feba23bfc0993cb121b0175e12ec9b8a75101949fd9eadbfcdf1b8ca92a1850d042fe02aa8
+2f795df7ef1ea6071632db8155ad677bab39a29a403ad86c724d26a749283a2377ed9178f17566071612a8e400e57368bd5845d70492cfd7d7ba411560713744
+82467017684c3a5b3fe526d5a72b170e1c67f86a8d47b68dffaa76d86a9c709f302d490b9fef56f7b186669a329d4ba137e7666a23a2851852636c9d423a4b2b
+7f594b6a7d56b8ff20b3b477c9e6403a580d2768dc2abcc6dd0e311ac14d14414d576f7d40219e80e0fb8fc174fb893e46f688dc54ced0aa26a809a408e22bf6
+786f85caf1dd1491bec68acec84d0d5fbaadcf9d3b5ce542220aacd4d074ca24358df5824897849b032962f66e35bb6584d6c8ede37a66461e3cef7f77e4ec68
+09a7a69d2aead9be13dcc6d2295cd119f79c89e59696956bcfdfd0dd8ba0269022b65b67385937dad9b52bfc248e8dfcbb23ac9ad040f0dcae827a736ee16abe
+726140263618c83707120ea710dd75691475a6501f7801d120ac5002c602aa4020485a82015481c0f502aa4020485a82015481c0f5a2a90ae4731c9ec88ae032
+e384baaba064f3d3a72a4e354255e0a262377f7e3d58dcfc89f1bd00afa50aacfb9651e76bd039e15d05e377d5483d215520f55273adbc5c039358534fe98cdc
+d44ae847f43fbfd67ede701eb6051416fa1b96d8937fbab934376ec8834f96aa78cf17f9739bf53c7914dbc96fbd93aad838b33f1d82aa40d754e3b136789932
+b9676a4c795c2f9e40465316d988f8e5f935f9319eb305ac850b072f7733f1b4249c1b57e0c13723e69723baa84fbd02d7fd87a8c8e67d4b58ae61d576faa353
+3055b171667f5a8455816c1dfaed399fcb59af9d9895de7a736edffe8b38de78a36ca5b409ba1e0a6d01ff880aa5239d9207dfd6718693a54da3bbf658fe7a1f
+46369f9b96d0a49533f576926e0aa62a961b085e0d2155205d8d5fb2148db18be10e795a42e5a975f6360d1dd2d6ff2e73890add9b88f4aa52cfa04aeeeb5db1
+197e6a7addc38752159b67f6a78b4015487a042d12f006c3a18f02bdf937b33e6bb60a537ee812db02467805bad67e51483cf858032a3d84261dd5a182fc08ac
+272b5993e4ed0ca42af630c6ecef10785560c2d0795ab2632bfcfbca0cbd47f6e45d74f412da0222242cdcb1f68b18fc223cf8c8e9c577929dbddf2068768c94
+dbe9db02f2a98af1b4c630b3bf03e055814943e78652b2922f56058a2acbf61010886979f0213a1023eb35fac65ca643506ce78e4fa2c4d2f0aa90a9025192a4
+29e95ea174dfbc24e3fd55decf0191a45b1518bf91a889a425184015085c2fa00a0482a425184015784a8e4c2b0c59892f8c5e705fc0dfed7820adf00530cd2b
+30552431ad700212699c14a3bc0245f0035560d0124805d552ebd2ec4a4aaac0fded4b465a61e1e652f1232f9a4fb4d8d020af402d4452c1a2726a5da4a80a4c
+4b5a6147fa6b10fe9a9c26b1fe86afc1a44636c128af4045c45241e5d4ba74ad5b2333af8864a51596ef32f435550f9e0c8cf10ad4442415544ead2b4663f3e4
+a5155683cfc149bf45527ff23d4cf10a94124cd72b960aeaa7d6dde1c8cd45eddce1ac698595213a44ead09f1a0d96195e818c90bf9b385daf402aa89c5a57c8
+f19bc7985658b24f513b9dc1643d77076e6fb7497ed3c71cafc0fda66fde07b154503fb5ae8a2a30789424a615deb3b95f13df44b6b9911bdf6137ef0b032771
+f794e01508e833e3a6dc88fee825f86949c249b72ad03c92d0114968830aa00a04ae17086ec05820b8016381e0068c05821b30167813070892966080377180eb
+e586b7da6156ab4c82ece5ab46fcd228149a5d98966090b513ed72c31e84874778f525532834a6302dc1206b6700989600c602cbef4090b404032cbf03d70b04
+37602c10dc80b1fc0f21e81e861a7735640000000049454e44ae426082}}}}}
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1074\'e2\u1099\'fb\u1073\'e1\u1088\'f0\u1072\'e0\u1090\'f2\u1100\'fc }{\rtlch \ltrch\loch\lang1033
+pub_name, state}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1080\'e8\u1079\'e7 \u1090\'f2\u1072\'e0\u1073\'e1\u1083\'eb\u1080\'e8\u1094\'f6\u1099\'fb }{\rtlch \ltrch\loch\lang1033
+publishers}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1075\'e3\u1076\'e4\u1077\'e5 \u1087\'ef\u1086\'ee\u1083\'eb\u1077\'e5 }{\rtlch \ltrch\loch\lang1033
+pub_id }{\rtlch \ltrch\loch\lang1049
+\u1085\'ed\u1077\'e5 \u1074\'e2\u1093\'f5\u1086\'ee\u1076\'e4\u1080\'e8\u1090\'f2 \u1074\'e2}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+(\u1074\'e2\u1099\'fb\u1073\'e1\u1088\'f0\u1072\'e0\u1090\'f2\u1100\'fc }{\rtlch \ltrch\loch\lang1033
+pub_id}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1080\'e8\u1079\'e7 \u1090\'f2\u1072\'e0\u1073\'e1\u1083\'eb\u1080\'e8\u1094\'f6\u1099\'fb }{\rtlch \ltrch\loch\lang1033
+titles}{\rtlch \ltrch\loch\lang1049
+)}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+6)SELECT title}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+FROM titles}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+WHERE pub_id NOT IN}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+(SELECT pub_id}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+FROM publishers);}
+\par \shpwr2\shpwrk3\shpbypara\shpbyignore\shptop15\shpbxcolumn\shpbxignore\shpleft34\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+{\*\flymaincnt5\flyanchor0\flycntnt}{\shp{\*\shpinst\shpwr2\shpwrk3\shpbypara\shpbyignore\shptop15\shpbottom1395\shpbxcolumn\shpbxignore\shpleft34\shpright3124{\sp{\sn shapeType}{\sv 75}}{\sp{\sn wzDescription}{\sv }}{\sp{\sn wzName}{\sv }}{\sp{\sn pib}{\sv {\pict\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw206\pich92\picwgoal3090\pichgoal1380\pngblip
+89504e470d0a1a0a0000000d49484452000000ce0000005c0802000000a9d31ddb00000cdb49444154789ced5dbd6eea3c1876a48edf1d2060e800b780ca503a
+c29e811ea96be9ced04a4c95da81bdb0566a19d86104062a6ea10c1d4ac575f0f927094ef23a71423006fc2ca7f8f8df8fff9ff8bdf8efbfff9081c1fe7171e8
+0c189c0b0cd50c14211baa59e5878fbebdead61e479b4c22345003950d77c12746ffbefabafff7f69d7dc256e375daaeb8bf16dddad368b3b1acc68bdf35a2cc
+96556ee1bce6f09feb61c24cd284aa739aa89c679a2b924eef5b22882f38add21cfbb1e85e3f8ef0bf8dd7195f4ee6587ef8eca0e7dbb76f3e38e833e04eaa0f
+f13587a2eb44bef8619f5cb53bad16570130e8a8b65e17aa75341a956ed06a91cb5f22f41d17ce8fcdf7dbedf55bbc3fae8afbd317547b1a3357463bd2422f8d
+71746112932c05369bd1e3f588e4a7b375c42dddfcbb0fd0220cd254a4bbd6c2998cee48d13e09cf50f7fa7ac4b9e13c26eb4261c834dc867aead1845224e181
+526df5f5858a65ab7197ff7dff5bdfd1ff08f42156f2c6eb6771fe75d5f64696de129540ca83c13d2c7bcfc3ab3ea6f778ccb95ee673ebbf9f24b96715fd372c
+d86e8e3015f8daf7fe66e9145b1f33ce27f28f409e2388f1d37df1a33fcb6f871918a56201a1bf24a58805ce64b3826b711cef1582d71695e9b48d9c0e0f8e55
+a04f61aeb81949a6175d900646f3c95ff5a69547f327546cb2ff20fdda2d2737d8e4ec26baafd5f09c82b37557ef3d8e60ca8783f3f5843bcaef0a5d154bf457
+a5cd0a46329c78b6c2c1ed3ce9eeb4e49d8709a1bfb4cf52ab038f4061b0ce3d79f89ccdaa11f308f645ba517f6a87265f5cce192d6734a7019fc93b210fdc16
+e3d0e0078e55a04f1094a9d85bedd1e9cfb1d3111dd57029969362a79f1fd4106ab971f997565e80c5c0a93e8f4c705604c1217013289d5513ce058bae43e39f
+bf359dfd85540bfadc7c7f4fbe10a6c5555cdb7bc0ed53fb7d9d4e3f8ae2799c4d4a749160f303c32e13a87628dd5ce52ab633462042a252ccbacbd981528a93
+3fca08158a25cbba7c691786b4bb5bc9276912243238ee13789a59cd31292eb7aecbc9d7ba538ccb7124e4fbbee3d3a3c56c968b9e2f180881c826ea5f6c7f20
+a4ece1b2371fcae35d17976e274a5f31fb40c23dd3055d5a44a1fe8247a7c53c6d7ec0e0f597be8d86f781b507e928ab81704c8a4de9ceceadba4ef002a32c9c
+799f4f02428b09de04e005ab155177d0da3c1259addb4827ecb75feaa3b89e108982743796f0b9fc5de5da7405259b3c7cae86b760f345bb4d2600ccdde1a292
+1785e7d786642de9305d10bcd29e796b10da212c0b716b35e29a7c27c52ff5d8e43b7a1f36fb40e6833efd472d24f5689ee11de875ec0ed4b772f0ed97bd1518
+3f7ce6ecfecc46c897ffa04fbcaeeafdbb477853e2b8269e6171837a75e26e0bc086db48fb1cd16d929b4f8911ee0277e85beeb7f7d3b71473b7c3e1f5193b17
+08c70b04873c8a82270170d8e3dbc2bf01394a91baa4575194a03378d400fadc088e25e48b10081f1150d2a7ec09978ba3bb98c2a300ee70fb3d5de38f70f794
+c419e298a816eed9590c8a60427b89f6cc714c5433386a18aa192882a11a0ca355c91c9a522dac6ee0eeec107f88c05f622eb6fa1459ad8a0e9287338152aa49
+8a2318a0a3238761e4c8bed3a2b79d754f464159f5f1f0f3af87146955b2923c9c0994524d561c110772786e13fea056b3b2183cd2118bdd73776e4abd09ac55
+0943a5e4415e4272aa504a3549710443840e82dc602d063878239f5bccb7d75be4b2a47a29d2aa84a14cf23046092424a78a7d518d5e4b7b2b285ff3c8882310
+3c81b2f3db98410509b42a8a00491e5248484e0ffba25ac452475e1c1102bd6943787e6b7f3efce036fbf95b37b99be152b140051b64340a685594aa22a00bc1
+a41292d383ea1d68627144088ef6f0eaa6dc5b2ec95841448e6c5bd0b15783dab2d48ad1aa84a04ef220292139491c60071a2b8e88c5b23758d8ac39dffe75f3
+5336abbac2907292a8d4481ec84e595a4272aa504a35f99b454842b2d5a0f07794e1eb4a9156450425920773a9aaeb11aec1e9c150cd40110cd50c14c150cd40
+110cd5d4e1ccd5223a52adf13aabceb7ed413e0cc1bfdf8b1f1df4ec7cfc42ae29f303e2475e03227a0b2335767cc4403e2a9f56852b3ba06af17d448322de9d
+f0d7925b758284762c1d838eca8ec01d402c643420ec1cebb09ff226fdeec387f5bad06c95c7db4ff7f9c7413c55cbdb48f6210ffeaad7e733945056380e6507
+bd6e2aa648d1d380c89f1aeffe0e081427ac6cf3bd5914f3b1edd7d7cabeabf7bc07294a90aae5ed7bf7fbb7604259415f6587d7a23fde47d1ee6d3b83f73a83
+8c0624d6a71fe9df0101672b502de21b9624446f93f761e7ae8ec6cef7fb97a0aa258babde40425941476587536bf52a6653b58e708957bfb8a96fb80f95e932
+c2f52faf01919e40d3bf0392a0adeb556f5892c2b237401fadd2b3740269b19f84f4557660a6cd9fe6d5977aaa9708821a9014517851257d07647f18cf57d3bb
+1bf66daa40d5927d4259414b6507aec56a1533ed7183bdbddea055ba3ae4352029afb7777807241eb898ed6ac31a13e1e487dcc328e3f761b373858779ba0c0d
+ab5a92242f9b5056d055d951a91486ef883447a16da3e124d22ff4160603a70189f1198a32e53b206074b00684f484cf3e0dbee87617edf80f14c8e31d8395dd
+cead68470aab5a6263e0b2b43dec2059f257089f5056d051d9c11f0a707f6e151a1b4ff798440392445c91fe1d1010220d882fce91302aae403e258b488322f3
+753ef8088828a14ca0e311eef122f08ab483b3d4dc8661a816c42e0f7698c73e2260a866a008866a068aa035d5e82e89dcb19fdbe79327a901d19a6aec9584db
+6fe8c6500f2b279250a601d1193a2a3b18acc62b39ec753d1f9795931db193064457e8abec203784f3a7ed6ffdac9ce8aa01d1149a2a3b70230598a6a1951316
+a5861a103da1a3b243042dad9c68a901d112fa2a3b2262d6d5ca89461a100da1a5b28380ca1eea828b41bdac9c50e8a601d10f9a2a3ba8b26031a52277b62cd3
+d3ca89b61a100da1a3b28361337aec56679dd684adf475b572a297064467687d844b0f47849bb5a3c6196a40b4a61aaf3cd310460392085a53cde09460a866a0
+08866a7bc101a519dadec76b4a3565d6582401b6df8ed658f6c409bc0a7cea56a71fad9f24d6ae15405f65c761adb1c820c21acb61a519ec9c2891b56b05d057
+d91181acacb11c4a9ac107f7e2dcda6d818cb9345e3f8bf3afabb69b3cfbca5f6ce1653c5fb4b903703703190cf0a9a1a9b20329b1c6c2d25122cd280bacb1b8
+71621e74d8fb3fa5b031175a5139bb89ee6b354c1d3c39d0e75b44715210ae65f4864746d057d9a1ca1a8b0a6906e69fc01a8b1ba7fbbacb1232e6c2125a0c9c
+21ca3d918bb5f0e2b3b27070b9e571293bf66d8d658fd28c04d65820632ea9e2a4afea68036d951d42ecc11a0bc55ea5192e786b2c700491c65c62e3dc1234f4
+5c0c5bd8a1c319b9d254d9118d0cadb1ec22cd005518bce115d0d1b3c66259406e369031177084f3dfa2062dbce0ee80bb9d2f202631ced29e76e312d054d9a1
+d01a4b7a6986e01e53d6d1570afe6f68f1015588b03ac9174085e17df09309bcdc4085c36932353dc235480d32dae1354acd371632b5df614dde9e35d54e525e
+01164a87829e35d50c54c250cd40114e996aa7f4e487b67a0d7910aaed68a644592d244d48fce447cc331ca04f79c77d405bbd863c9c51edb0664af601e8c90f
+724771eb288b5e7e455676209f63c25b29c7fdf5373df51af2802750dc4e1f55f2f6716e3d1cae6cbb424f9fc6f5b00ec21b112bec78736baa283f70ce39634c
+1581f284b0ba014c28a260c1273ff0efb573d444ae19514ef89129e4738c641d455f3349169379dece33fe6286f51a4704876a611945ae82ba353c64b7f11c74
+ffd7e9909b1a04a81b1eafc7e1798d7ecaebd43b6e8455f756c43348f240d9195237800909107ef2837ca4bc9a335944bb301c2eecbc202ce853de71d762b2d8
+447777fae935e4219e40a93aa74af4044b4e1c21a56e703e18a65cabdf5d7dbdf744c9c39207b1ba6117acffd0c3e70c37f8f5231e8c85b410f99477dca598d6
+b2b11d2a61488b0734c32e3bd0487503ed7f0d0b550b5fef9137d3b03c415add20097a8bddceb37595552e8a6fe4419ff28e3b16935e8c462b32f4d26bc8232d
+d582ea866057c33b26c2b51784064f927a98ade4214add20d9a7434f7e10eabb178038f3683b70b04b9bedb80efb9477dca998acde9aadd208bc41cad6bc8f5a
+04d76ac9cd9490daf1a4107c70623b06ef079ec49109e509b0ba41945018e1273f3cc584ed645e38640a7cca3bee5acc3139d5701f1cf11713d06b1c0f08d500
+d580ebe4fc43c511967529fa34081442e2a5081a3e472fe145b79022c9a8bc9234f0e447449ce12c803ee51d8124921453e459a0d7381aece5b6c0517b931e79
+c8e5eb293df901ea358e0b09a826af8338b48add81e64f7e24c20988504ef90ed4402b18aa192882a19a812218aa192882a19a812218aa192882a19a8122fc0f
+9d0d00edc94a740d0000000049454e44ae426082}}}}}
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1074\'e2\u1099\'fb\u1073\'e1\u1088\'f0\u1072\'e0\u1090\'f2\u1100\'fc }{\rtlch \ltrch\loch\lang1033
+title}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1080\'e8\u1079\'e7 \u1090\'f2\u1072\'e0\u1073\'e1\u1083\'eb\u1080\'e8\u1094\'f6\u1099\'fb }{\rtlch \ltrch\loch\lang1033
+titles}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1075\'e3\u1076\'e4\u1077\'e5 \u1087\'ef\u1086\'ee\u1083\'eb\u1077\'e5 }{\rtlch \ltrch\loch\lang1033
+pub_id }{\rtlch \ltrch\loch\lang1049
+\u1085\'ed\u1077\'e5 \u1074\'e2\u1093\'f5\u1086\'ee\u1076\'e4\u1080\'e8\u1090\'f2 \u1074\'e2}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+(\u1074\'e2\u1099\'fb\u1073\'e1\u1088\'f0\u1072\'e0\u1090\'f2\u1100\'fc }{\rtlch \ltrch\loch\lang1033
+pub_id}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1080\'e8\u1079\'e7 \u1090\'f2\u1072\'e0\u1073\'e1\u1083\'eb\u1080\'e8\u1094\'f6\u1099\'fb }{\rtlch \ltrch\loch\lang1033
+publishers}{\rtlch \ltrch\loch\lang1049
+)}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+7)SELECT au_lname, au_fname}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+FROM authors a}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+WHERE a.au_id IN}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+(SELECT au_id}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+FROM titleauthor ta}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+WHERE ta.title_id IN}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+(SELECT title_id}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+FROM titles t}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+WHERE \u8220\'93CA"=SOME}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+(SELECT state}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+FROM publishers p}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+WHERE p.pub_id=t.pub_id)))}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+ORDER BY au_lname, au_fname;}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \shpwr2\shpwrk3\shpbypara\shpbyignore\shptop187\shpbxcolumn\shpbxignore\shpleft42\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+{\*\flymaincnt5\flyanchor0\flycntnt}{\shp{\*\shpinst\shpwr2\shpwrk3\shpbypara\shpbyignore\shptop187\shpbottom2662\shpbxcolumn\shpbxignore\shpleft42\shpright2727{\sp{\sn shapeType}{\sv 75}}{\sp{\sn wzDescription}{\sv }}{\sp{\sn wzName}{\sv }}{\sp{\sn pib}{\sv {\pict\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw179\pich165\picwgoal2685\pichgoal2475\pngblip
+89504e470d0a1a0a0000000d49484452000000b3000000a5080200000098f95b2200000f2449444154789ced9dbd72e23a14c7c5cc96fb060ca14801afc08422
+a4243d05d999b4617b8a64866a6792823ed0662637053d9421050caf00458ac0f01c5c49fe40c64720f953c6e7d7dc8dafc1f6e15896f5d7ffe8d7efdfbf0982
+f8f895f6092086829981c0606620307666140ab7cfd3faacf134deedd23d2143c849408e5c26b61908ccafc2edcbb45bb3fea84da75d4216fdc6e37857fdfbdf
+b055e49be9063ba7f2b0312701915de63e3376e3c7eb31d0aa2c5fefae5f0ff3280f1b731210d965bae0d30481b1336367a510e29093801cb94c6c331018cc0c
+0406330381c1cc4060700c14262701c1b756449be432a350a876dead81b8fdd81c22848505e6fad19457e5e43263b763037103de7c2576d00cd0bc6fadfbd777
+a624848b5e66dcbe7c3963edf630bbf8a00af06cb63eb2195db4f85db31d3ddcbd2ee103ddbebcd38caad58adbd168dd6ad5c413b0f73d18f94f80f001a9942f
+b69b6ff74f7302a29719ee8059a1faf77df87c3b799a043bac875aabd4bfbe1eb3efecdd5407aba53032271ea85823fd46bf3eed5ecd1f1e36bd5eb9522890ce
+3b0d7de3d1fe19d89e493ea7c2044450b9865f2dc2d3e0cf60450c09885e6688021dcdc800c78358f4ad78ae7ed6c5fa25214bd9811633ba5f9d2c3e68fc3a7c
+4be5e6aa586b71a990b3dd54f8e793224c402c958be6478ffcb31a06f68505624840343283e560f762f4d0785ddaed649003467e207ea72dd3e8cf9e774002f6
+409bcf34811733fbaf8b324f4cefc66838f19decaeeade3707a9f7e8cf2f201a99411f76b345b73b9cb6585e8e16b592b5f16dd41e7a3782883d233655c47daa
+aa1d48764a4f0fe5f7e1f4cb6a3d936d3f420624e481647b461590803d50863313c4332bc43767c44522f8ee378a3b00077236d9ff79bdbbb33e05ce54498a30
+017177be13fe1483906e40a21fcf10db863d268de1244c460312fdcc9df398f3929380e0cc1d441bcc0c0406330381c1cc4060303310189cd305939380e09c2e
+441bf4b5a2af157dade86b15405f2b1210f4b5c2e42420383a8e68839981c0606620309819080c8e81c2e42420f8d68a68a39d197eb354c46794350e02f23469
+46ded8a46209d6772f12669f8ae96c32873f20dc4a1431a95882759c48d5bfed1acdd9437f1ed88adcbefc579ecdafba8e3b93cf6de7ce3b7bf8de756c8a1b45
+6ba8dfdb691ab28050ca9df72fe71eb70202da4dfd515a5568eb50fab06db155eb8f541a669d36e3b25414cdb90e7ecb256fee8aad367968346842d0d4b96f0e
+9e26d54eef6ace8d56ee6759bc86f646fef1f7bfdf526f67c84b8d1e4940bc27dfa94ee805552476537f943ee7db61bd49c6636e455cf7ef527a5e47d0039579
+3b171fb607c6499de5e79c0c87d32bb10d68d66b8b8f479e2bb4c9fc58b4988f936506e0edcc0e8727bf92db4dfd511a7c2ca63c359af757f3b7413a57a09719
+df9b6db174f02369592e5d8fefd757d17cc3c569a0804851b78b4d668b6efdb640ea17f337d0c497083a99b1620d5df7b93996fca28a364e9a1f8d4fdacc96ab
+85c28a06b7dbfe5b9d584f93766d3b7fd338a394391510614f0dbba9e555ac3f13f2f194e23354cbd7ba1cfc7920efc32fdb3469f5a4542d975eab16bb83d865
+2f5ffff44b53fe716b236f7b025f4ea28001010b68e8da4d27cc1a5bfa78b2ff042dc171278d5e3f63079926416fa75fdc9509befecd326fa7814001814f1eb4
+9bcaae8d764bc8e89f3b6e914a10700cd42cec6979ac1396729f1b67eec0a41590849dfd387307d106b556989c0404b556441b1dddc43bd67944f403b5c173ad
+21ccfb8cc47adf4efb5ca244b3cd70062e5938a6cf44f20383dae059d610a6e9ceb48d3e69df545e97991ac13f45c0a7c96af06f74c5849fc924540de1ccc344
+afd9e0bbdc6edbb21f281467453d16099819b401f859932b56dc30d7588941569539e9dd54064eab712814afa08d26aac702d8030d0e7f9490cd27bb4f3e796a
+380f149fd60a6d34bcd10898193428e50bb29ed14bbe8cf684b204d3d68b455bf4a10f09b779380702d710e6fd715b3d8ab164aec97075e3e1da9a99c67b124e
+f3700e686646ad6beb8a7bb90f28992b2917dc4c5e308c0ffe2829ae3fec4cb0a573d6254ff7bc22434785970cb14325734f940b3e03ac9770718b7379a0d69a
+19f5d8057ba0080c6aad303909086aad8836a8b5c2e42420a8b51a8de5c55a07b28286f9ec7134d7511317177526f4467b421942fc55f8bfafe6671410ad75d4
+785a18b9b8686a6cb717dc3554b921eb85baf9c44398b56ae25bf847a7cd68deb3714fdfb479d8c20ad938fd1bb328427a58cfe7a45c2ddcde977ede36db7bbe
+4dd1e82b0efd890db0dfe82bf978059cef92c27aad15ae94d05fdd293bea5e0c6461f5d9382790b7936759c644c83d97a522997d6eea379d12993d9172dbdaac
+68f47d1cdb3bf2c6b8677d1634fa82417e1c03f35df857a5b15eabe5ef6526b3c1fe6288cf9cc9078e7d364e026dccb885950664f559ee31c33ab1574cd530fa
+4280465fd8010b91ca7aadec876b2bdfd33e59a450853666c48e76047794bccaa5c542e13299455ca5a4b05e2b73e2767b9dcfd35d01d0c669ccdaaa51c11eaf
+4709223e8734faa6b55eeb53833c4fad45cc094bce237b02364e60e3d968d62eea6babc21f878cbee09e12b36b4aebb582c3ece0630f7c9b3aee8acd9c5471b0
+d4aafba7a2d157807665f92c280e18060d9fb0b1ebb5228a881d55fa7a69da303c6aad300904c48490a3d68a68835a2b4c4e02928ed61a9f0c882480895a6b48
+076c62b7bbb7be541091c2e4962946ad35f0eb53a61cb0ce82751e89e41c88456b05654099ac2a4a8be4a8dc0aebb7505d622254f1b59da56cb7386bf33a5563
+c56640fcb73f4a97cec5584b1f9a56063316ad159401397ec367732f2dd2f7fbfa4c9e1612fdd65797d87320b667efef27cdd6986af3d6bab67c4573d59a7e20
+dbd317a5c7ebc9793c4d88b2d62a07347caa01a988bb255497583c9053cd95ee194f6d5ee169c2cb461c31222947c90862d35ad51055061ee5a30e2f480550a8
+4becd4068fb5362f6b937ae5caf9d817e3d15a9561722293ac15549fa32aa2a72eb1f83f68dfa8b8eef34df1d6e6ad885e462da3afbdb369c4a2b54a7cadd077
+2e5f3fd65fae9bdce9c1820e5850aa3d9c30e73ce9c5c7fffe297e509b370adc03b1a38f25465f1934a4eece19ee811265ad55321a0fc8aab4d7d915da0cda35
+e3658dd4554460cf235ac0416dde90c80e04197da57d8b840b80aa93b66e3211ba1984df37f1cc1036a7366f5648596b4decb8bab7664ec467d45a116d506b85
+c94940d0d79a3467a0336b6aad907dcad9ee7175d21e5f8ffccb98e14c9390bed690cd52dc3599b5b456997d2ac7487cadf1d94d5de256a47514b54e5bb44ffd
+1b5ded2b60ae7ed6a4f4736a6058b266a99a0bd498854c3df87cad476ee5fd950a835afe955dc18044e556554723332e4bc5c56caf6b885e4395773c99e55279
+b957531632dd03f95a65b7b26479ecc3955d975040404b70dc5de3047ba012cba5fa72af862c642a02fa5afdd09fb35edbbaf55305004f2f1090e8dcaaea6864
+c6f766db16c49f4af9025ee0f80880af5563b9574316323de0c0d72affc5d6279fb6e44840122f9faaa3c2b3a9106c168cd503edb5d61f0d9ddfe794e5f2a432
+69c842a62e277dad2ed699b73b95b1cecbda3e2069588275b4569fe5f2f8a3aed8725559ab2f069b5db55ca03188a511235b5b75f2d4afbb32b55c56056db1a0
+4f38ee9acc9a5aabb29800beb59d5eb3f4943219ad581a1289af75090bc5bed8c996a50503a2a833474866c640512c4d98ccf85acd59c8f49c40ad15d106b556
+989c04047dad8836c1b5d600335afd199ae95b33ee1ac2e90627a0d6aab27f027a63fa445143d84c74da0c3ee6b7f16e2bdcbebcd709a9d58adbd168dd6ad5f8
+a8d604f0b5ba12a2dfc6e9d71b330354435851525633fada83c292ef04aa374775657a63a06cf9dee1b4e53d89628df41bfdfab44bdb93874daf57ae807ae358
+6ae304f4c6682e2e6e20ad555d5206eb277b8cbe4e00e59581fd8ee2c82e4eaf9fe15a05d9e8ad7bd3736dbecec4d1d511bd51ce79d510d693947d465fa186f0
+1eb9d61a9f5736c8bb09773cd3cc65054d8dd0c253e5506bfd0e2d298398acb57a80fa1c6a186ae30c00acb5869494590de1fa6d61c267eb64446bf5b68776f1
+8c02b4c4b34c6f34d9c61915b2fac98a9232efccd187357b702cfafd45b72eff4e63e6748143ecee46fb3f47f546e2933f647a632690d510569694e16bf77c7a
+ecec70f23ba30675130426335a6bc2e42420a8b522daa0d60a93938098ee6b4555d64022d05a93b9bd644749f1e63e18d68cc35c9a22316aadea645895756e0f
+ae18b0aa8f67931c61b55699820aca8090de08bb40fd8585fff071f80355f6887e9b30ab01531b2d736548add510c26aad7205159001210b2bb8e8e8adbfb070
+818db61eaab2f2a327cd6eb7fc59932bb6f62209a3b59aa33347a1b54af0cb80320bab32595065c369ade65c5158ad55af90889adea85758d80ce8639197655f
+1172138bd69a385169ad7a0aea71bd51a3b070a0a3c741f379c8167260391cd6be6b0861b556a25c0817746cc2aa2c5c58183eab94f5db5af7ebcb2d216ca572
+04f65d1308abb55af8df3a4f14112680dee872b2b0f0c1687f5aefbcb28084d45a0dc18831d043922a2c8c1cc144add5849331e11c1200b556441bd45a617212
+10f4b522da6864067d47a0d9b5af1bccc7ad1b4f44fdde3ab31bd1bb7aed31835d162f3c786dbf936458415563275c21bb6d523e9d8809f534e1551f99ade040
+02051554992e9a7c75dcb8915567f745e9b4af15dc988c54ab9d196ec3f8bdf7e1f88da9aabe56b96333ab80d5d9f900ee6194f8a0aedfd70aac40abf69d114b
+b59aab72d62f49b34e16a4de642e3d5efbf4329460984675dc78118ca96cfdc045cb5997165cabd617ba1db402adf277461839ed368326c6ec69567f6e06f32e
+0224eed8341c851568934027336817b45ea789f1b8a3e7fa7243d6bac5a5395e5d340dc76654d046bed3f97e65b38a5859f1cd1bdfca8ca9f6fc04261ad7b6f3
+b7205fee598136a2efd442b3cda8d52e46eca4be3717dd16197dc27ba9fb5a53716c46053df94fc2ef6c7ee26e6b7f506999cfc950fd4e3174ee0ab424dc7706
+436fb69ffb162afc13140ca5a3f1fe37d94cbfdcc2a5927d572fb1ef6a844ef93b2303751304c644add504721210d45a116d30331018cc0c0406330381c1cc40
+60704e174c4e02627afd0cc4407e89fea29a5d6c90c9fff6ea548cfd1c8b3c6ccc49406497b9cf0c6ba8c3dfaa80e3be79d8989380c82ed3059f26080c8e8ec3
+e42420383a8e68f33f16c323e6778335d60000000049454e44ae426082}}}}}
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1074\'e2\u1099\'fb\u1073\'e1\u1088\'f0\u1072\'e0\u1090\'f2\u1100\'fc }{\rtlch \ltrch\loch\lang1033
+au_lname, au_fname}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1080\'e8\u1079\'e7 \u1090\'f2\u1072\'e0\u1073\'e1\u1083\'eb\u1080\'e8\u1094\'f6\u1099\'fb }{\rtlch \ltrch\loch\lang1033
+authors a}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1075\'e3\u1076\'e4\u1077\'e5 \u1087\'ef\u1086\'ee\u1083\'eb\u1077\'e5 }{\rtlch \ltrch\loch\lang1033
+a.au_id }{\rtlch \ltrch\loch\lang1049
+\u1074\'e2\u1093\'f5\u1086\'ee\u1076\'e4\u1080\'e8\u1090\'f2 \u1074\'e2}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+(\u1074\'e2\u1099\'fb\u1073\'e1\u1088\'f0\u1072\'e0\u1090\'f2\u1100\'fc }{\rtlch \ltrch\loch\lang1033
+au_id}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1080\'e8\u1079\'e7 \u1090\'f2\u1072\'e0\u1073\'e1\u1083\'eb\u1080\'e8\u1094\'f6\u1099\'fb }{\rtlch \ltrch\loch\lang1033
+titleauthor ta}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1075\'e3\u1076\'e4\u1077\'e5 \u1087\'ef\u1086\'ee\u1083\'eb\u1077\'e5 }{\rtlch \ltrch\loch\lang1033
+ta.title_id }{\rtlch \ltrch\loch\lang1049
+\u1074\'e2\u1093\'f5\u1086\'ee\u1076\'e4\u1080\'e8\u1090\'f2 \u1074\'e2}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+(\u1074\'e2\u1099\'fb\u1073\'e1\u1088\'f0\u1072\'e0\u1090\'f2\u1100\'fc }{\rtlch \ltrch\loch\lang1033
+title_id}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1080\'e8\u1079\'e7 \u1090\'f2\u1072\'e0\u1073\'e1\u1083\'eb\u1080\'e8\u1094\'f6\u1099\'fb }{\rtlch \ltrch\loch\lang1033
+titles t}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1075\'e3\u1076\'e4\u1077\'e5 }{\rtlch \ltrch\loch\lang1033
+\u8220\'93CA"=SOME}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+(\u1074\'e2\u1099\'fb\u1073\'e1\u1088\'f0\u1072\'e0\u1090\'f2\u1100\'fc }{\rtlch \ltrch\loch\lang1033
+state}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1080\'e8\u1079\'e7 \u1090\'f2\u1072\'e0\u1073\'e1\u1083\'eb\u1080\'e8\u1094\'f6\u1099\'fb }{\rtlch \ltrch\loch\lang1033
+publishers p}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1075\'e3\u1076\'e4\u1077\'e5 \u1087\'ef\u1086\'ee\u1083\'eb\u1077\'e5 }{\rtlch \ltrch\loch\lang1033
+p.pub_id=t.pub_id}{\rtlch \ltrch\loch\lang1049
+)))}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1089\'f1\u1086\'ee\u1088\'f0\u1090\'f2\u1080\'e8\u1088\'f0\u1086\'ee\u1074\'e2\u1072\'e0\u1090\'f2\u1100\'fc \u1087\'ef\u1086\'ee  }{\rtlch \ltrch\loch\lang1033
+au_lname, au_fname}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+8)SELECT au_lname, au_fname, price}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+FROM authors a, titles t,titleauthor ta, publishers p}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+WHERE ta.title_id=t.id AND a.au_id=ta.au_id}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+AND t.pub_id=p.pub_id AND country="USA"}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+AND price=}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+(SELECT MIN(price)}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+FROM titles tt, publishers pp}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+WHERE t.pub_id=pp.pub_id}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+GROUP BY country}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+HAVING country="USA");}
+\par \shpwr2\shpwrk3\shpbypara\shpbyignore\shptop0\shpbxcolumn\shpbxignore\shpleft34\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+{\*\flymaincnt5\flyanchor0\flycntnt}{\shp{\*\shpinst\shpwr2\shpwrk3\shpbypara\shpbyignore\shptop0\shpbottom1230\shpbxcolumn\shpbxignore\shpleft34\shpright3334{\sp{\sn shapeType}{\sv 75}}{\sp{\sn wzDescription}{\sv }}{\sp{\sn wzName}{\sv }}{\sp{\sn pib}{\sv {\pict\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw220\pich82\picwgoal3300\pichgoal1230\pngblip
+89504e470d0a1a0a0000000d49484452000000dc000000520802000000b0822d7e000007eb49444154789ced9dbb6ee2401486c7d296fb06082852c02ba05040
+4ae85dc04a6921bd0b90a8564a0a7aa08dc452d043195280fc0a505004c473b07331c6e019f015cfc0f99add58c6738e7de6e299e37f7efdfefd1b01804cfc4a
+da000038078212900e2b2835adfa3e2bcecbedc97e9fac41b1026e4a85c84e682901e9f8a5553f664681fd5198cd0c84cc6eb935d9e7dffe0df4143d8c0f58b1
+acee417053093bada0dc4f5aa509a7215df6eaa51e3a43dd83e0a6127632a0fb06a4c30aca3d0bdd7b07dc940a919dd05202d201410948070425201d10948074
+c08ace1da28a9b3025048442cbbf0d07fac631c51d1fb70b4a4dcb37876c62ff38d77faf389c25ee965a0a4cd0c8c3ed8272bf2713fb7dda62dfacd0c4a8bce2
+56a554bf9f58dc73d76ae2c15f50563fbe0f2b96d662a57358106028c37eb21d6774daaaecc68d7a6fc92fa8fa31c4c15c28a476e3f146d70b4e03ac73cd883a
+97f06ee6b299dd762db39b6293fe65e78b67e370f44f7f8572a22eee68ffa13788c44e7f41694fc0d311c67b75da9e0628f39c829eee964a1372cdce4bbebf5a
+3a66fa9d05a50aa85bee1667c6f3a2d1d8763ad99ca6a1e610c747b965c50a3933fcc0208c9b8ee483c1b78eec072ba19b4793c8353b6f5f7f7a4b7ccd945e43
+8d72199b8763eeb5d26f4df85d1c8948447e6e1fa1839608ecf41794cee40e5c13fc1626c0ecb287befad9a48a4f082d450599737c5e119923fc909bf448eee5
+3955d0699a0965b7cdd1df87238c9bac97c3a1d9417f59db432ea82109dd3c9a84d6db5d2afd645d1317bca4917461b112c75cb180ebdb696d8dc84e1f414962
+dfc88c1b655c9fb4388786fe0aa22dd132bad7a60771d35d8063b8e191cdcfca7d9908ec0cf8a25379c715dc9c5b7f65b2b4429c1e8c862bd724ad8e41bb9848
+4be5977eb76e92d7b2d4a6eb8e303178e831378d5a3337e9395ac288ecf41194cc0e6330d3497d189b85343bf839ae0d4e0f72710e81495ea73dd6f25690c8a4
+76233b1cccbe59871145350de966c882446746ee26a560585deda5493aee83c3a54fdb78e0cbc6cdd68b4e5476067cd1211ce6074ee60ac49306823ca5e341e7
+099c820e87ac7f7af53afb550c531561dcb44fae3bfe74ba268f9bdc58743f24518219f7782476463f4fe9ac5847ee6e02f941dc4c84e8937c65ce3005377d9d
+133790e40b28030425201d10948074405002d20141094807649edf21aab80999e780328096905c763e889ba02544003795b09301dd37201da0257487a8e2262c
+3302ca00410948070425201d10948074c08ace1da28a9b30251401b7d4d379647c7ef74d9f8a3d376f3f1b7afc79d1605fb313ce3e7c560867e4b9fdbafef370
+ad94ea8a4b8e08219f8d79bf6f4e7c7ef74d9e10fd4e99943d7c5b072c557676bb4cb1822693dc0bda98c7aff46fa0a7a3b4e2128d10529feb567d7eff0954af
+7c0465ae592b98a3168d427cebfe8e9f3b2fb9de923eaed5cf06a5399fa6bb8d7609cdb8f5741057d18608daa447969a4f9efd115737ba592c5036af555fd33f
+9fdbddebc506ccada783c93687df87b32fb81987105292548eaa19442c03a568d5f67d191f41f9944e5141110b87fa88a7250491d08c5b4f873ef273459bf6f4
+6bb11b584e628f37dd7a4c8f10fb89e65fdbe24b338de66d94ad217103e6d6d3a13865839af9695f201b948b4721283172d90cdaccd9233332e3b1a907fb3cfe
+862f3a02a11991708f4bd166d91f99331a9595d7e7c5673f3e4b77dbf5ea2bdb216d31b2d47c78f0f57408de6483e252084a92dd16bdfdfbc683bc526b59fd88
+3f28d7db5d2d7bbc6d676a779e704926f8d3d399ce4da358d55031b3f8f4a3311200da3292ffe46db9163e3c3d1d174237635708ba2954b5c548b331a596c7ed
+66307c04e5ea6b810696601cee833afa6654f6131ad78466ae6af4309d93e23b42a3767c0f32e7f95ef2f574ae7174336e85a0db435a8d8cd552555e75c4eb45
+3ce0474b68d9fbd34dcfa8f60dabe397074029fd203463bd1c708566bceae930a644d1273d6a7bb73a1abcebe9707f2ed22772df90150e5a5e41f1bb1801b647
+f47ee0871ed0727f634aef2951dcc913ee940a57b847540e1e86a1f1df58df06ce64800e7f2e3deae9f8900de2df1035b2ce4448aa251413564a3d698d147f17
+00aea14c926f24f3d6f2bb1909aab80949be80324096d01da28a9b096409414e0d108ce05942010442dd3543c23a1d324be8faf5e573394292cc12f272fe2df7
+a88a18419610709904b284d85ac7f6cc0ede0e59ed29678f2a3b4d8629225ccea94918579610f29ce224dac9eba493392c5c09ae799e21a5cae4790259422c5d
+8dec90707aa7dc3b6471736af0dbff94df7371726a7cfb1121bc2c21ef294ed3738fc8e662649dc64e453ddc16f1fe5cee3dbf12bc1d3e48264bc8de4e8bac24
+d94d9d7b872c7f70726a92859325e42fc5e9dca3156e420ea9a847c459425ef6fc92935b6709d9e0d02cf771cdaebde1662d50a9f2739e25b40e9de2c445adde
+f91a0964099dc01b5f7ae362229804f0b38442a638adb73b927437a589bd902574053f6fdf275d95f5c2af3df1ce14e4d438f7ed526bcb19c15e5a9eb70c23c3
+713ce6619a775dd3288aafa970ab9940961077a1d23e78ba43163fa706b996b04539350922c812f29ee2c4f7e8e4d78737d2ebd7548dc7ca12021e0765b28422
+01dc940ac8120294018212900e084a403a202801e980a004a40332cfef1055dc047d4a401960c731b9ec7c103761c73102b8a9849d0ce8be01e98065c63b4415
+376199115006084a403a202801e9f80f7741010b8b0bff430000000049454e44ae426082}}}}}
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1074\'e2\u1099\'fb\u1073\'e1\u1088\'f0\u1072\'e0\u1090\'f2\u1100\'fc }{\rtlch \ltrch\loch\lang1033
+au_lname, au_fname, price}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1080\'e8\u1079\'e7 \u1090\'f2\u1072\'e0\u1073\'e1\u1083\'eb\u1080\'e8\u1094\'f6 }{\rtlch \ltrch\loch\lang1033
+authors a, titles t,titleauthor ta, publishers p}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1075\'e3\u1076\'e4\u1077\'e5 \u1087\'ef\u1086\'ee\u1083\'eb\u1077\'e5 }{\rtlch \ltrch\loch\lang1033
+ta.title_id=t.id}{\rtlch \ltrch\loch\lang1049
+ \u1080\'e8 \u1087\'ef\u1086\'ee\u1083\'eb\u1077\'e5 }{\rtlch \ltrch\loch\lang1033
+a.au_id=ta.au_id}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1080\'e8 \u1087\'ef\u1086\'ee\u1083\'eb\u1077\'e5}{\rtlch \ltrch\loch\lang1033
+ t.pub_id=p.pub_id }{\rtlch \ltrch\loch\lang1049
+\u1080\'e8 \u1087\'ef\u1086\'ee\u1083\'eb\u1077\'e5}{\rtlch \ltrch\loch\lang1033
+ country="USA"}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1080\'e8 \u1087\'ef\u1086\'ee\u1083\'eb\u1077\'e5}{\rtlch \ltrch\loch\lang1033
+ price=}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+(\u1074\'e2\u1099\'fb\u1073\'e1\u1088\'f0\u1072\'e0\u1090\'f2\u1100\'fc \u1084\'ec\u1080\'e8\u1085\'ed\u1080\'e8\u1084\'ec\u1072\'e0\u1083\'eb\u1100\'fc\u1085\'ed\u1086\'ee\u1077\'e5 \u1079\'e7\u1085\'ed\u1072\'e0\u1095\'f7\u1077\'e5\u1085\'ed\u1080\'e8\u1077\'e5 }{\rtlch \ltrch\loch\lang1033
+price}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1080\'e8\u1079\'e7 \u1090\'f2\u1072\'e0\u1073\'e1\u1083\'eb\u1080\'e8\u1094\'f6 }{\rtlch \ltrch\loch\lang1033
+titles tt, publishers pp}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1075\'e3\u1076\'e4\u1077\'e5 \u1087\'ef\u1086\'ee\u1083\'eb\u1077\'e5 }{\rtlch \ltrch\loch\lang1033
+t.pub_id=pp.pub_id}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1075\'e3\u1088\'f0\u1091\'f3\u1087\'ef\u1087\'ef\u1080\'e8\u1088\'f0\u1086\'ee\u1074\'e2\u1072\'e0\u1090\'f2\u1100\'fc \u1087\'ef\u1086\'ee }{\rtlch \ltrch\loch\lang1033
+country}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1080\'e8\u1084\'ec\u1077\'e5\u1102\'fe\u1097\'f9\u1080\'e8\u1077\'e5 \u1087\'ef\u1086\'ee\u1083\'eb\u1077\'e5 }{\rtlch \ltrch\loch\lang1033
+country="USA"}{\rtlch \ltrch\loch\lang1049
+)}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+9)SELECT DISTINCT au_lname, au_fname}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+FROM authors a, titles t,titleauthor ta}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+WHERE a.au_id=ta.au_id AND ta.title_id IN}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+(SELECT title_id}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+FROM titles}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+WHERE ytd_sales=}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+(SELECT MAX(ytd_sales)}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+FROM titles));}
+\par \shpwr2\shpwrk3\shpbypara\shpbyignore\shptop0\shpbxcolumn\shpbxignore\shpleft27\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+{\*\flymaincnt5\flyanchor0\flycntnt}{\shp{\*\shpinst\shpwr2\shpwrk3\shpbypara\shpbyignore\shptop0\shpbottom2475\shpbxcolumn\shpbxignore\shpleft27\shpright2682{\sp{\sn shapeType}{\sv 75}}{\sp{\sn wzDescription}{\sv }}{\sp{\sn wzName}{\sv }}{\sp{\sn pib}{\sv {\pict\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw177\pich165\picwgoal2655\pichgoal2475\pngblip
+89504e470d0a1a0a0000000d49484452000000b1000000a508020000009c0c8b1f00000f8e49444154789ced5dbb6e223d1436d296fb068850a420af80421152
+424f41564a1bb6a74824aa9592823ed046ca4f410f654801e215a0481110cfc16f7b2e78668e077bee93395fb3c13b379f39be8c3f7fe7fcfafdfb37412004fc
+4afb01109903fa04c20dd3274aa5f6f3a2b16c3ecd8ec7741f2823288841c06a623f8170e357a9fdb2e8d78d1ff5c5a24fc87ad87c9c1daffefe37ee9479312d
+30fda80885053188ac9acc278eb3c79b19d0876c5eef6e5edd1e5484c2821844564d826307c20bd3278e86db202c14c4206035b19f40b8813e8170037d02e106
+fa04c20d5cc784511083e0b7284209c9f944a974d57b3716d34eeb6b08c12ccc30378fe97f0027e713c7235b4c1bf1ce2ab19be600adfbce6e787397be2bd8d0
+f389f6cba7b5466e2e8f8b03528031d838653fbde8f09672983edcbd6ee01bb55fdea92fd5ebe5c374baeb74eae20398c7da2bf68921bc416ad58bc3fecbfe99
+0583e8f984bde855bafafb3e7e6ecf9fe6ba370450ef548637373376cdc1edd568bb1156d7c41b95eb64d81c3616fdebd5c3c37e30a8d64a25d27ba7466f3e9a
+2f801d99e4a814c620022f35feec10ee007f465b92ba41f47c4224d3a8176a9d2bc77a685872fbbd2b372e09d9c86eb45ed2e31a643da196ebf192daed75b9de
+e1b41ec7615fe3e727853006317829ea1903f2cfe80cd8054b24758368f804f3bbfec5f4a1f9ba317b45bd5bc57423deba3669cc587faa4102ce315bcfd469d7
+4bf3d745953ba3b3301a9cb9266b49fdfbd628f5d9fa4f3288864fd0416db9eef7c78b0ef3c5e9ba5e310adfa6ddb1b3108438f7619b38ecd153ed46b2477a7a
+a8be8f179f465f996c9f11d220216f243b32bc4102ce3119ac3d1a8efd1a9edd1c3624ecf3a9503c00b8915564fef37a77679c05ee21490a610c621f7c27fc14
+8d909641a25f9f10fb8313b2b11a930a726790e8f7d4fc8cdd28053108eea94128017d02e106fa04c20df409841be8130837709f158c821804f7592194807a51
+d48ba25ef45c61410c827a518406502f0aa32006c1b56d8412d027106ea04f20dc409f40b881eb98300a6290a4bf45b912a1b34b5c878308090d9f68bf7c528f
+b25f305b08631e46d4dbd30f6b7c0ea9a7afe82a5f15d7f089affda15bd55090a4bb7b36011c851ab20693f2e34486506307173a5ed23faabdf74f4b31ce258b
+8084dc563c1aabebf626d574059f71c018346d76c1ae91c74ab034543c1d2cf43f3d3cb47dc2ee06bfaa175699a86fec5dcd471b48423e7bbc997bba50ee3d69
+0a3e2307abc5f87a6568b6d88b7cfffbe55581322b716d8b5b1aba25b5dec03c5df39aa6b2347c15347cc2542fb61a644d1a2d42bb88ddf796f71380be511569
+0b3ea347ab515f4f1ef91ba54d63b2ee308bb0f7e7b612f7098fe98e9b8f15198f17d762bb57be662496d3ee27a84b2c9f968de716d947717f92a6e0339bb0b5
+c59f9fe55464203a3e4127998d067589c7237dca975bb213e226a8e3c2314fcd8ce033006897deeb7dbdbe6ee81f8dfa61ffc64ba995faddbf5773a39fefd60f
+abb72017a79ed1fca02342f5aa54da46744d4568f613f5fac5943dced7fea2df21d30ff828501a4a7b02514b69b48074059f21411ffe83f0d6cc1fdceedbff0c
+2b0ba38ebc3e5c0cae7a4da7688c9dceac11ee9abad0d1100bdf96c29fa0be514a34039b3bf2fcc90a3ebb977f96a840354ca77ccd08807c07c20ddc5303a320
+06c13d350825202f0aa32006c9ee1e5d64503305cdb877c2aabb93b088bd49c9ee92628376c5a2fb31c18135e3de8ddd4bf19120c79fa356c360a29ac533f911
+6ea1d34fd418ebe55ad196b19ded97ffaacbd575dfe2ecf84a141475160ec2ede890cc0bb03f5cd4a2eceec9633bfa37bd1e375a643683995e59c4dd3888cd90
+d05bb362f51e2f3ac26a23c87672943b5df2d06c1aae60ac5e7b83c1ce2006d54103f29d3b776cfdf8d24b2dcaef9e348ec7cdf78e5ccb23d94a22eec6426c86
+84de7cc2a667d832ebb946b99e9cfcc63447d830bcb1d0801143c2f44aea9ec51a05f9ee60f4cc88b6009395513c4b3d18ac180e9277b45104f58e197410a423
+eb6eb925e4d6cbda241671371204fd1675cf2d2e7476e59d0906cba83f664075324cefee71a0f53cee90e903f3de334c6f1cc175a385ce7787a3f733d939e28c
+1ceb33a080c160610675f33ad97d9add84752f38e4aef2dde342bdff6950baa7be01647a5503e166013a734c3903e0fd963c133397d801668103a9f3f5857e82
+4e51bbb7b5d78d94064ceb4b566610f0d3dabfee99a25732b18ee9c65c984e10defab3f1915610649117cdc2c364e1191200f2a20825202f0aa32006c92e2f5a
+7084a185e3a0943579518742f2f4395a4c88ef83ff7dbdfa1106d1e245b943642c1966ca381c2e38f155bb25bb75b91268753a0c2d1c07a5acd34fb4eed9529d
+275b22488182dca0b730b3dca02a76ab15a95e95daf795efb7fde19e977929500259694b5aae6dfb461f03ca4da1d36b30a59c647ed11a5fd0a7efdb0ac06957
+c34d813ecd0115e89cd5c15b48b2c90d2ae1b25226cb8f7de3b65721cb2752ed1ac510fd0b58e971661ec83be081712e280d058dfc380329e508f4b77af30923
+632ee7c04ed5201e0ab474057183042a8c4df4980ca841b61fd5c1b832691233c3a79cfef512c5004069e846f9f484f38bb257d6556ec75e6ef00a2a8c4dcc94
+18f888cefeb8e25c5ca9749932059a687e51bee43ce87d9c1ff24115689ea5a1206aa7680b308250a021a5a1c9e7177d6a92e785915c9b3087f43912e206bd85
+12b233c750cf050a9f0e4943c12325a2dcc4f38b82cbe3e0f0067e23418519e50655e04a0d6aff04938efad68d4e56f9761c0ed00cde3299b9b2985f14a10871
+2a4a3f1ab3b3889e455e340b48c020593039f2a20825202f0aa32006415e14a184c07b74fde491a0ba4b26f9ca3bf84a3ff94914b1663fa1268f3c42ea2eb030
+ef28b165fcdd7048f82ee21c2dcafb21e0d861cb23e7f3d380549031d8811a7589e5e8abdab556fd41a6375ff46f409fb0e591d13e4dee60b804d9d65664705b
+1b593d85373a2e509859fa17e798c1c1070eb2ff602de4833b85357ca885cc4dedc1cf20a04f08f2c8cb681f284f60c474b96c0b510e7697906f04f409411e49
+6cb966f69590d182ba04b581a14732660c5697906fe8c6d105e491b65cd35f052a6e351383eb465a9de4c0078ef26e62fa804187f24977bacf150122d08b3a78
+38b90af40c3598371cedbd3416aceaa987cccd28708e897003795118053108f2a20825202f0aa32006415e14a1046d9f00454e4586cb204ff356e41d4cc294b2
+9e4fb0fa13b6681fd3d3e40e5e83c4a158499852d6d93fc1e406406442457924e30cd3ce9c192d6406219e78bf4422e30454a04c045a99983cf395f123e1ce58
+a79fb8ac940f405a384579241391a69d393362480c02a51205b4b2122b7dac0e668c66ceba0eef121f9d2398632acb23d3cf9c99143cbca85cc6e9b5d268b25e
+70a768dd5fafde46c93fbd662e494f8405ad08b1a967ce8c189041a450e7779806b3d12e91c6c5ea2d0d4a4dc727b6ac5beb3fb7669277a9c88ba6983933629c
+338870a4868cd3a4d39e09993ca532626ae94537a33f0fe47d6c52a3e65c49551e9985cc99d102348827648b71a49e8c73ceb8e6cae4c9fc29cbd71a656504e8
+ea457d159fc44f1e29d53726983933724006811ffe7c705d017c67c63f7b1d226123e03a66b660c6006293add466d5c88bc248cb2009c70e475e14a104e44561
+14c420c88b26875c674c0d9e5f542445bd5164e95c6940fe6593a7880a21e3e886ec8ae2234b03e61775866e2c3024717413c8981a1f59aa1333b5d715b9897f
+d3eb93f269fbbd2395ef730bb18a893749560943009e38ba3ecdf75453615ddfcba08206091f1d571d1a3e715929af97a7553a919c52f97293857855a655d327
+0cdd80e2e8ca9aaf64eb899b41ddc0994865b46a2c48708ea99778338b84a117601c5d2fe88b6cd40fb66e4e0040ff020689223aae3a347ce26b7fe80a391b6b
+d50b78f3800f4226de4c9b3004e18aa32b7f57bbb3632bf1314882b2399dd8ca6cfbc3e0efc71f638e39e8ec264d9d37738e1b3c4baba64e18ba70368eae0de3
+c9bbbdda4ce743ec6490644310ebe52b777198fe435ab96347dc35665b1124de74118619848cc39c3f0d1b760862cd2cac20ad1a9ffe569317552601c06f31e5
+c49baa8461ba90c4d1ddc0f4afc77632fa1734c859423a42e4661d330b846141901b5e340b84e1cf03f2a20825202f0aa32006499a17cd3537586404e745036c
+c6f77a65ae9b63dcf945d3324e405e54e5f804b8c1f411457ed1ac41a79fe0eb767b6759a9fdf2de20a45e2f1fa6d35da75337f6b303a92f6dbaaf6eacdbfb72
+83b901945f5491fe95c9621d9db1b5b0ab28374d7acdcae0c759883be7edcb75326c0e1b8b3eed431ef68341b5067283f4a3670e7786003718be624900e245d5
+e95f30b72a5b9db437a9580694670df5261d8da05a7af3095bdcc7d65eed86ce19f4062332b73edca01c39968602bca81efdeb51960a02da1334e4a61120c877
+07cf394bbd9569fa32c158a70a372ffa159afe05914d5ed401686ea1065f3e39578079d190f42f13d036daa539df4793795ed4d9fb59da4e28dcb68c1ba4a3aa
+1d74f727e8ca21c872ab2ad2bf7cd2468766364cac87c375bf21bf6606f659810c805d68fee3cb0d120f6d912369a817b2fca2caf42f5c77c7d9b32072d39040
+be03e1466e78d184511083202f8a5002f2a2300a6210e445114ad0e4454f2227627f8e46fe4c2195908935716734a620644d367b232d5e94bfaaddf0e64e69f2
+159817cd552652d36b9d22b67c43a79f68ddb31c609e205e80b69300bca81a0de8173517e406c1d8bc44e05acd0c9fecb038e5a656fc54b1e98b7f7bad746955
+c64b14a70b1d0d31cf14b8391ecd2dd4a7b1c3cbcec91aba2f0dd87ea106943b04c00db205604f6c5ec78dd8914ca734dac62437adf74d6a8a7a298f1f2d0dda
+e7b19294284e197af309430cc83930fa860676b9323b0726de5403c40d1e37506c5ef146565c537a643c725361ece0c9ba7d52c4c5c161c6011d6d207d8fdd88
+435f8bb2276e5fdfac7bd03abf426c5e4bd61aabdc94f5430346ef6546c81a183afd04b3697fd0fb8830fa0c8b9dcb38640546c7971b74c4e615ff83ce81cabb
+212f8a576e5a13334b6a255ccd1c51ac154777f6d424cfb6e891365bc99192fca2d03537af93dda79dc9d79aa3824ac8339a493b362f1fd1c561fe345ac72037
+b56f640b688184ab32649328d68da30b0c85ca2173011a90ce2bfb423f41275f5d16fb461271574d33e94355442b3795dd084ab82a9d4364702373da7cc75c98
+4e10de56e2098b86725375a4cc8b26765fdde688bc28027102fa04c20df409841be8130837d027106ee03e2b18053108c6e54728e197a8e4a99b5213b6b1c022
+c489b83c5c84c2821844564de613c6a285b70f0117798a50581083c8aa4970ec4078819a1f18053108ae6d2394803e8170e37feab223e6a6639d320000000049
+454e44ae426082}}}}}
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1074\'e2\u1099\'fb\u1073\'e1\u1088\'f0\u1072\'e0\u1090\'f2\u1100\'fc \u1091\'f3\u1085\'ed\u1080\'e8\u1082\'ea\u1072\'e0\u1083\'eb\u1100\'fc\u1085\'ed\u1099\'fb\u1077\'e5 \u1082\'ea\u1086\'ee\u1084\'ec\u1073\'e1\u1080\'e8\u1085\'ed\u1072\'e0\u1094\'f6\u1080\'e8\u1080\'e8 }{\rtlch \ltrch\loch\lang1033
+au_lname, au_fname}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1080\'e8\u1079\'e7 \u1090\'f2\u1072\'e0\u1073\'e1\u1083\'eb\u1080\'e8\u1094\'f6 }{\rtlch \ltrch\loch\lang1033
+authors a, titles t,titleauthor ta}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1075\'e3\u1076\'e4\u1077\'e5 \u1087\'ef\u1086\'ee\u1083\'eb\u1077\'e5}{\rtlch \ltrch\loch\lang1033
+ a.au_id=ta.au_id}{\rtlch \ltrch\loch\lang1049
+ }{\rtlch \ltrch\loch\lang1049
+\u1080\'e8 \u1087\'ef\u1086\'ee\u1083\'eb\u1077\'e5}{\rtlch \ltrch\loch\lang1049
+ }{\rtlch \ltrch\loch\lang1033
+ta.title_id }{\rtlch \ltrch\loch\lang1049
+\u1074\'e2\u1093\'f5\u1086\'ee\u1076\'e4\u1103\'ff\u1090\'f2 \u1074\'e2}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+(\u1074\'e2\u1099\'fb\u1073\'e1\u1088\'f0\u1072\'e0\u1090\'f2\u1100\'fc }{\rtlch \ltrch\loch\lang1033
+title_id}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1080\'e8\u1079\'e7 \u1090\'f2\u1072\'e0\u1073\'e1\u1083\'eb\u1080\'e8\u1094\'f6\u1099\'fb }{\rtlch \ltrch\loch\lang1033
+titles}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1075\'e3\u1076\'e4\u1077\'e5 \u1087\'ef\u1086\'ee\u1083\'eb\u1077\'e5 }{\rtlch \ltrch\loch\lang1033
+ytd_sales=}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+(\u1074\'e2\u1099\'fb\u1073\'e1\u1088\'f0\u1072\'e0\u1090\'f2\u1100\'fc \u1084\'ec\u1072\'e0\u1082\'ea\u1089\'f1\u1080\'e8\u1084\'ec\u1072\'e0\u1083\'eb\u1100\'fc\u1085\'ed\u1086\'ee\u1077\'e5 \u1079\'e7\u1085\'ed\u1072\'e0\u1095\'f7\u1077\'e5\u1085\'ed\u1080\'e8\u1077\'e5 }{\rtlch \ltrch\loch\lang1033
+ytd_sales}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1080\'e8\u1079\'e7 \u1090\'f2\u1072\'e0\u1073\'e1\u1083\'eb\u1080\'e8\u1094\'f6\u1099\'fb }{\rtlch \ltrch\loch\lang1033
+titles}{\rtlch \ltrch\loch\lang1049
+))}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+10)SELECT title, price}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+FROM titles t JOIN publishers p ON t.pub_id=p.pub_id}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+WHERE p.country= "USA" AND t.price=}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+(SELECT MAX(price)}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+FROM titles tt JOIN publishers pp}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+ON tt.pub_id=pp.pub_id}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+WHERE country= "USA");}
+\par \shpwr2\shpwrk3\shpbypara\shpbyignore\shptop0\shpbxcolumn\shpbxignore\shpleft12\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+{\*\flymaincnt5\flyanchor0\flycntnt}{\shp{\*\shpinst\shpwr2\shpwrk3\shpbypara\shpbyignore\shptop0\shpbottom1035\shpbxcolumn\shpbxignore\shpleft12\shpright3837{\sp{\sn shapeType}{\sv 75}}{\sp{\sn wzDescription}{\sv }}{\sp{\sn wzName}{\sv }}{\sp{\sn pib}{\sv {\pict\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw255\pich69\picwgoal3825\pichgoal1035\pngblip
+89504e470d0a1a0a0000000d49484452000000ff0000004508020000000a3ba78e0000065b49444154789ced9dbf6ee2301cc78dd4b16f8080e1067805040374
+849da13da96bdb9d01a44e27d1811d582bb50cec616c18407905186e382a9e23e73f014270a89da6a4a9bf9f89fa9cd889bffed949ecef5d5c5e5e12008ce422
+e90a009018503f3017a81f988ba7fe4ca6d9b3abf37ad772dd642b0452445a6413564fc47e602e1799e693dd2e8b3fcab6dd26c4e9d73b965b7a781db5b23c99
+26789d068948148969914d583d45ca856b756a966468580e6e6a031200894814a4453661f51460e603ccc553bf2bfa08003aa4453661f544ec07e602f5037381
+fa81b940fdc05cf0ad1744272db2f9da379e99d2c3cba8b5f67d4700201ae7d4929efad5fbfa71ce4ca674ff22bec4ed3fce019020f1c47e57fae52d9087671a
+f25e114ba1e047a2a2a5b8d0507ff36926564c88f5123482d73a9634a24b73869d968f12de520c0773a71f879805bc4ff22dae92cde4ee66b0244c24af85f9a2
+d2dea6fe1eae48316c76b053d44e4bb1c84643fd56a7363d9acf4823ba34a714de7968b67ac775f9f5f49a534c8a7e1ee556ae5fab59bc891f1fde7e0f96b489
+b3ad6b7257af2f5d978afbb631ec58f2d901933e6187ef52e2924dd26f3c8b57956cb9258608c6e6bd48c832d12a81f871fadd29fff1f77d93cdfdf29ad8190f
+975cb227d64b507157cb7468981ea4c6249ba4d54fbc516f89786f0a9bf7bfba87acffad8e4f13836c22a83f5f50ed670a3957ffd6d9361ff5f42b025247e3b6
+955df78fa51c8eeb5a73a77d7d5fb4063e25c5241b3df5d3aa3c4fae4723bb45764fbdfb870ff68cbbed91ca39adee5de16564cfc4188671e067526e7bb39453
+2fbbc3b434edf6abf668d622e204544b6e4cb2d18efd81f75127d6b82ae63ce71b2e901012d11fab215421b2f45864f30de6fd00240476b780e8a8c8e63b480b
+bb5b000802f5037381fa81b940fdc05ca07e602ed8db05a29316d9c0cd0a8020f0f1446294c4b4c8063e9e48848f27663e001c82950e203a69910d563a001004
+ea07e602f5037381fa81b9e05b2f884e5a6483379e6902bea8e74143fdfe4dc7e423032dc5a8e0b382f34e7ac2f54dfd70d5d29b4f34d7aec4e6d38c1ef34582
+dbbb9111edcb8cc6ee264cc33dd22447f18e97e51bc5b9e754f26cabb4dfbd7ed8eed1abaa1bfbb71f90598562f05df35bc14518403f79f8995137dc8b77a7bf
+9683aa289ab7af9dfb06830f13fa636e5caf5bdcf2edf1feed862add77835808bb6d0c224593a8339f5fb92c7725f247d9dd6fb21d23547c3ca5ecbbbbcff951
+112d1751f5d2a5c691c766945abe1aea5e96c7a587f963fa2b4ff3ce4f5d2355956838164ae91f3bad5375fd995446d506b112df924b85de11bf0f8ce0b6140b
+f908fe58025df5fb8d59c41824c9a4eee3298577f7cae2ae1e6d38fb8ad2c38d238fcd2843cf4cef9df09ff1f567252f4b69e9dcda6feb8f49a5fc78551aae56
+a4d11b7995cf9c0ef6abb7c5662befe25565ddbf493acc7f080db9cedcb334dc8703163574fcb17c7c62e663f748bd3bfdf8106d68777f5b90d1c8ae6846fd2f
+2c3ddc3852c58c52209df9281d2e2d7d45f6fe98ccdbac4aa3e2aa512d3be38e42d4a097391c3b36977fe3b6b2781eeefe69bb2e92d6f72b9a3722a587d7767e
+efe7b95bbcc06afb727f26372b0f16391e0b5e1bc48f98d6d10b9ecdb2e77a462c15f2274b4fd667eea874e9a8abc774eeb4abcd0ca9e617cfbe76fc868b77d8
+d2653aa449ef3fbb8aebabe270793e175b168dd663ef96797e9d8d1e8d18fe89a6bae3a71caac2fa1b1dd30ba54c465f760aa5d389246bfe299bc3b02b72c6be
+60e72f7d95acdfa87ae9db2be2ef7902cd11445864567b848cbbfedbeb39867f1b6bd553d2a7d0e16e73d07bd5893cef67b1884f7cf77e9d9bc9c429e744be63
+1f4fe9e9fcafaed843ea91e3a728284cfad2c3d54ba70f54bffb4ff6e11585947e26bf5175b7536973f3a7d5d791b78da34fb51d7e4e56f929bb4db971d75f01
+3e06ae63bfb288d0cadfb2066e89c61473ef298db4bb36fa445b68a83f6c99e8c1dbb941487ae83925b9d4d7cd4a0f572f9dc846792dbf51f5398234a78697a5
+a4f47d4eff510719bd3736a1d5a4031e99fcf1bf1b38714b1321e486c43339c3b75e43f13601b281d1dcff2c04bb5b0c2596089f16d960770b0041a07e602e50
+3f3017a81f980bd40fcc057bbb4074d2221beced0220087c3c911825312db2818f2712e1e389990f008760a503884e5a6483950e000481fa81b940fdc05cfe03
+4e00aff19f9bceee0000000049454e44ae426082}}}}}
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1074\'e2\u1099\'fb\u1073\'e1\u1088\'f0\u1072\'e0\u1090\'f2\u1100\'fc }{\rtlch \ltrch\loch\lang1033
+title, price}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1080\'e8\u1079\'e7 \u1090\'f2\u1072\'e0\u1073\'e1\u1083\'eb\u1080\'e8\u1094\'f6\u1099\'fb  }{\rtlch \ltrch\loch\lang1033
+titles t}{\rtlch \ltrch\loch\lang1049
+ \u1086\'ee\u1073\'e1\u1098\'fa\u1077\'e5\u1076\'e4\u1080\'e8\u1085\'ed\u1080\'e8\u1090\'f2\u1100\'fc \u1089\'f1 \u1090\'f2\u1072\'e0\u1073\'e1\u1083\'eb\u1080\'e8\u1094\'f6\u1077\'e5\u1081\'e9  }{\rtlch \ltrch\loch\lang1033
+publishers p }{\rtlch \ltrch\loch\lang1049
+\u1087\'ef\u1086\'ee\u1083\'eb\u1077\'e5 \u1082\'ea\u1086\'ee\u1090\'f2\u1086\'ee\u1088\'f0\u1086\'ee\u1081\'e9 }{\rtlch \ltrch\loch\lang1033
+t.pub_id=p.pub_id}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1075\'e3\u1076\'e4\u1077\'e5 \u1087\'ef\u1086\'ee\u1083\'eb\u1077\'e5 }{\rtlch \ltrch\loch\lang1033
+p.country= "USA"}{\rtlch \ltrch\loch\lang1049
+ }{\rtlch \ltrch\loch\lang1049
+\u1080\'e8 \u1087\'ef\u1086\'ee\u1083\'eb\u1077\'e5}{\rtlch \ltrch\loch\lang1049
+ }{\rtlch \ltrch\loch\lang1033
+t.price=}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+(\u1074\'e2\u1099\'fb\u1073\'e1\u1088\'f0\u1072\'e0\u1090\'f2\u1100\'fc \u1084\'ec\u1072\'e0\u1082\'ea\u1089\'f1\u1080\'e8\u1084\'ec\u1072\'e0\u1083\'eb\u1100\'fc\u1085\'ed\u1086\'ee\u1077\'e5 \u1079\'e7\u1085\'ed\u1072\'e0\u1095\'f7\u1077\'e5\u1085\'ed\u1080\'e8\u1077\'e5 }{\rtlch \ltrch\loch\lang1033
+price}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1080\'e8\u1079\'e7 \u1090\'f2\u1072\'e0\u1073\'e1\u1083\'eb\u1080\'e8\u1094\'f6\u1099\'fb }{\rtlch \ltrch\loch\lang1033
+titles tt }{\rtlch \ltrch\loch\lang1049
+\u1086\'ee\u1073\'e1\u1098\'fa\u1077\'e5\u1076\'e4\u1080\'e8\u1085\'ed\u1080\'e8\u1090\'f2\u1100\'fc \u1089\'f1 \u1090\'f2\u1072\'e0\u1073\'e1\u1083\'eb\u1080\'e8\u1094\'f6\u1077\'e5\u1081\'e9}{\rtlch \ltrch\loch\lang1033
+ publishers pp}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1087\'ef\u1086\'ee\u1083\'eb}{\rtlch \ltrch\loch\lang1049
+\u1077\'e5}{\rtlch \ltrch\loch\lang1049
+ \u1082\'ea\u1086\'ee\u1090\'f2\u1086\'ee\u1088\'f0\u1086\'ee\u1081\'e9 }{\rtlch \ltrch\loch\lang1033
+tt.pub_id=pp.pub_id}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1075\'e3\u1076\'e4\u1077\'e5 \u1087\'ef\u1086\'ee\u1083\'eb\u1077\'e5 }{\rtlch \ltrch\loch\lang1033
+country= "USA"}{\rtlch \ltrch\loch\lang1049
+)}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+11)SELECT pub_name, COUNT(*)}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+FROM titles t, publishers p}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+WHERE t.pub_id=p.pub_id}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+GROUP BY pub_name}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+HAVING COUNT(*)>=ALL}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+(SELECT COUNT(*)}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+FROM titles tt, publishers pp}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+WHERE tt.pub_id=pp.pub_id}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+GROUP BY pub_name);}
+\par \shpwr2\shpwrk3\shpbypara\shpbyignore\shptop0\shpbxcolumn\shpbxignore\shpleft79\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+{\*\flymaincnt5\flyanchor0\flycntnt}{\shp{\*\shpinst\shpwr2\shpwrk3\shpbypara\shpbyignore\shptop0\shpbottom1005\shpbxcolumn\shpbxignore\shpleft79\shpright3469{\sp{\sn shapeType}{\sv 75}}{\sp{\sn wzDescription}{\sv }}{\sp{\sn wzName}{\sv }}{\sp{\sn pib}{\sv {\pict\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw226\pich67\picwgoal3390\pichgoal1005\pngblip
+89504e470d0a1a0a0000000d49484452000000e20000004308020000000e324ecb0000077e49444154789ced9cbb6eea3018c78d74c6f306a8309c217d050403
+74843d0354ea5aba67008909890ed9216b25ca909d8c840194578081a1a9788e1c5f9210c00949e8cdf5f75bdabaced57f7f767cf9fff9fbf72f02809fcd9fef
+be0100b88c2fd342a135b26bab467fee79df7b43401c929411f731219a0202f0a7d07ab6b50afba362db1a428edee8cdbddba757432dd2649ce04b1b12bf2551
+92328a7b4c22536fdeabcf39917633eed4c7e80448fc964449ca28ee311134fa8010f832f59892811f8c2465c47d4c88a68000804c0101009902020032050400
+66a184419232820129e0e329146ebbd3011ade8f37b195e7fa0af6293295a4deff585acfcb6036c79fc829dc3e4d23733e24a5f58c8ba8de9b87879002db7571
+36976520fa336e668d3e1a85934394bdf9781065736454d78f9d884649e94fcb2ff7934d50fa9e37efeb357bdadd45123301d1f4b741348af47a64e891e88668
+a981b545f53a7dc27a893b7ebf2fb5bbb7d6641b24244c0e61ad936b8d37c18588b2ab6b7dbd7efb37b20dfcafa01ae093e8b5e54373d2cb35f29b41a6ec46df
+cd924aab25ae539df1267af7e1ef16cd5fee4e97919ce9cf89b8f1a0f53cad2154a914f7a6e9aa6a25482767f0f38653c0d28255d8aee0d7604513952e4e9bf5
+68c0f336e3a1591ddc2993b7b873acd7ae8af5d4b7e2321c68d62aceaa1ffee9796406744127ebf14dd48fcbc25a391aad0039026ad6685a516f484da5e2183c
+2dee0f95ee52cef8be4b901357f4c1dded64bb894c44d0da3f6a59e4a5152b486fe0c643c391e1f17d30282b8502ea4e71c568f4fc4a42724addd3f87753dcbf
+efced29cd54174db37b758fb8762658a162fe6e0a189ac5d6c0e0a7ee1c72a3d4453d3446f357b593b445302d129be30e247ac44b2cad4d1fd5ab67bdf176ff0
+3563657a9633f6ee829cfefb2319a38b657086e02779d935e4cc70e5e8d214e5ae5aaca874350d65ffaee47a0d4094ed6486a65d6598f538164d27b46fbab86f
+d439f1a254ce5540d7f44dcfaaed07e42490b8a8954cd697a2bd82c473e30e7dce8ef92f841713705a3ba20ea55ca2e57178ab380a964b47a7b156aefd7067e6
+ba05d21676e2fee9bec5c6b524f2cab4f9a0165dddbfa45f459a231c009d5552ceecd7e19e338404602d77c7fc17b25dacf786366ace236f04a721c3ef77e14e
+d44075678d2d52def75aad55b0481f89344ace0c37554a708cf562b607552caba48bedc8299a689ef2e507f5230799fba69adfc286eb5be7f8810cc356495c33
+9dca4d7cceb4e0ea887b311ae79c9c9cfdc7f2d4b097acd5973eb2e2667772ff88a6c6d27f23ecb3727cafdfd8f47db277448a6383139f6dbf8cfcc442f43c33
+57d58a0932a5791c3bf557118e57b87e7ccd8014477347eb5bfd5fd22e398baeda8afe7e74fcf828c9ff31eeb086c5e3aeb995188ff746b86b00cf13c9a11dfe
+7fb9ebebd830d3a0bb881bc909214357b81f9762f480cb178d9b46878d0e38c75f82808058a4394b1ec9611f1b486fe46fe8322c8bbe6659ae244b7a3f959ff9
+0ebd68048ecd93e1ce615934202a2053400040a68000804c01010099020200abf78541923282d5fb80a880879400899294117848899d2849198187142036e021
+250c9294114c9602a20232050400640a0800c81410009885120649cae81307a498f78b2bbd9b03f04964753d896c9eff4c51a68f1c87a98bc42d2bd4ab020de9
+86bed01d29dffd47cc5d94aeefcc94795ba23c1c5b2ee4dc569973cb5e6846c2cae6bbf6cd11c1b5c98efec9b639b2db4fb756c28e9c0fe7e09e90ec242037d1
+6150eaaff6f605e63c0181090c8b4c271125c16deadc2eeadc042a34906213bb9776f651fb04542e217795dd0de0dcac8a26be9657ebaa16dc288bc111533b94
+601dc07b227a2c31b79b5f1dcbc5c58f29c33cbb4bafd9a7cf42775c44397586daf213158e0954af6ea56bf4c956f1a139356c1b8ba9d1bf504d8baabf559dc2
+1c7fcecdaae8158b6a1b3d36c8a672ac63eafb1531b54b0c9f5485a74f64519707df7941b9abba7a47328d12e846fd7aaee6ee8a46df1ea124199d3a436db989
+d79940516d55d7a6a3aa38a42a77af89512a8c8b2c9eb13370cdaa10f1a962a2673aa6ae5ebea9dd05784fe46da8f302d569f3a1ba7e89b56dfcadd0508a5f61
+ff72561e791b7d121e06f96cab4eb9c2aa84d44fbd319e7b0bf46ad806a906599a946c6655e9e13e11f5a36b1550adb47ec96b552430b8a8d0d7db499098e1ce
+ae7fdd49265097dddb4213a32d6efbab86eaae727f6e5f30abdaf98e4bf4eb3e8fad15731caa8d109a5dea9cfc3ac2507aad9d446ac2be69e03a14f95c205f3c
+3490a4576f9c09144e0fada9123ea1b6b467eafb2539a659d296cf28bd934a06b32ae25e8b03365babab63bda1e34fa5f0d937f1b656c43e0cf74a72b67b2273
+5d28459964ca7711e2af2ee33a43f1eda2e206b3d28c719df9258de38e387247a2479dde280a0db0f80e5847579a9f3ed1e9b578b78e5b20640e251c5ebd7e05
+22cce97f05fe860ad22c8047701e6059f457f021b31f9294112c8b064405640a0800c8141000902920002053400060f5be30485246602701880a784809902849
+19818794d889929411784801620393a5c2204919c16429202a2053400040a68000fc07fbfc6a514486c8a90000000049454e44ae426082}}}}}
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1074\'e2\u1099\'fb\u1073\'e1\u1088\'f0\u1072\'e0\u1090\'f2\u1100\'fc }{\rtlch \ltrch\loch\lang1033
+pub_name, }{\rtlch \ltrch\loch\lang1049
+\u1082\'ea\u1086\'ee\u1083\'eb\u1080\'e8\u1095\'f7\u1077\'e5\u1089\'f1\u1090\'f2\u1074\'e2\u1086\'ee \u1074\'e2\u1099\'fb\u1088\'f0\u1072\'e0\u1078\'e6\u1077\'e5\u1085\'ed\u1080\'e8\u1081\'e9 *}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1080\'e8\u1079\'e7 \u1090\'f2\u1072\'e0\u1073\'e1\u1083\'eb\u1080\'e8\u1094\'f6}{\rtlch \ltrch\loch\lang1033
+ titles t, publishers p}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1075\'e3\u1076\'e4\u1077\'e5 \u1087\'ef\u1086\'ee\u1083\'eb\u1077\'e5 }{\rtlch \ltrch\loch\lang1033
+t.pub_id=p.pub_id}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1075\'e3\u1088\'f0\u1091\'f3\u1087\'ef\u1087\'ef\u1080\'e8\u1088\'f0\u1086\'ee\u1074\'e2\u1072\'e0\u1090\'f2\u1100\'fc \u1087\'ef\u1086\'ee }{\rtlch \ltrch\loch\lang1033
+pub_name}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1080\'e8\u1084\'ec\u1077\'e5\u1102\'fe\u1097\'f9\u1080\'e8\u1084\'ec\u1080\'e8 \u1082\'ea\u1086\'ee\u1083\'eb\u1080\'e8\u1095\'f7\u1077\'e5\u1089\'f1\u1090\'f2\u1074\'e2\u1086\'ee \u1074\'e2\u1099\'fb\u1088\'f0\u1072\'e0\u1078\'e6\u1077\'e5\u1085\'ed\u1080\'e8\u1081\'e9 *}{\rtlch \ltrch\loch\lang1033
+>=ALL}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+(\u1074\'e2\u1099\'fb\u1073\'e1\u1088\'f0\u1072\'e0\u1090\'f2\u1100\'fc \u1082\'ea\u1086\'ee\u1083\'eb\u1080\'e8\u1095\'f7\u1077\'e5\u1089\'f1\u1090\'f2\u1074\'e2\u1086\'ee \u1074\'e2\u1099\'fb\u1088\'f0\u1072\'e0\u1078\'e6\u1077\'e5\u1085\'ed\u1080\'e8\u1081\'e9 *}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1080\'e8\u1079\'e7 \u1090\'f2\u1072\'e0\u1073\'e1\u1083\'eb\u1080\'e8\u1094\'f6 }{\rtlch \ltrch\loch\lang1033
+titles tt, publishers pp}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1075\'e3\u1076\'e4\u1077\'e5 \u1087\'ef\u1086\'ee\u1083\'eb\u1077\'e5 }{\rtlch \ltrch\loch\lang1033
+tt.pub_id=pp.pub_id}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1075\'e3\u1088\'f0\u1091\'f3\u1087\'ef\u1087\'ef\u1080\'e8\u1088\'f0\u1086\'ee\u1074\'e2\u1072\'e0\u1090\'f2\u1100\'fc \u1087\'ef\u1086\'ee }{\rtlch \ltrch\loch\lang1033
+pub_name}{\rtlch \ltrch\loch\lang1049
+)}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+12)SELECT pub_name, MIN(price)}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+FROM titles t, publishers p}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+WHERE t.pub_id=p.pub_id}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+GROUP BY pub_name}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+HAVING MIN(price)>=ALL}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+(SELECT MIN(price)}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+FROM titles tt JOIN publishers pp}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+ON tt.pub_id=pp.pub_id}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+GROUP BY }{{\*\bkmkstart __DdeLink__54_3377733501}\rtlch \ltrch\loch\lang1033
+pub_name}{{\*\bkmkend __DdeLink__54_3377733501}\rtlch \ltrch\loch\lang1033
+);}
+\par \shpwr2\shpwrk3\shpbypara\shpbyignore\shptop0\shpbxcolumn\shpbxignore\shpleft42\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+{\*\flymaincnt5\flyanchor0\flycntnt}{\shp{\*\shpinst\shpwr2\shpwrk3\shpbypara\shpbyignore\shptop0\shpbottom1065\shpbxcolumn\shpbxignore\shpleft42\shpright3357{\sp{\sn shapeType}{\sv 75}}{\sp{\sn wzDescription}{\sv }}{\sp{\sn wzName}{\sv }}{\sp{\sn pib}{\sv {\pict\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw221\pich71\picwgoal3315\pichgoal1065\pngblip
+89504e470d0a1a0a0000000d49484452000000dd0000004708020000000c5bd5680000074e49444154789ced9cbf6eea3014c61da9e37d03943230c02ba03234
+8c74cfd056622ddd19a8c474253ab0036b252e033b8c8401c42bc0c0d0209e23d7ce1f30c14971d252d37ebfa5c475ece4e4f8d8b19defeacf9f3f0400c5b8fa
+ee0b004000fc12a808fc12a808fc12a888ef979a76d7b24a33e365e438df7b413f181839448c41102f818a5c6977af56bde81d142dab4ec8a26d34464ee1f95f
+cfccb8c934c1f76824264b84914f3448e096e4ca19356e478288baec3cdc76480824264b84914f34c80ef4e340457cbf743c07065f098c1c22c62088974045e0
+974045e0974045e0974045b0de733e60e4109827fa75685aa1d66f92bf8f9da5741bd00acffd9e691f4e749f5cefe7b4bd2ff14b0486c4f03ee1febe993f3d76
+57f95a3f5831216c6de4b6313ac8c9bcb0a70ff69e5469b1331fe49d32258e337a6997ac7e6dfdd85da678fa8897eab1dd5e972a6434ca9789bdc8e839e22cd9
+8a49f7b8b5d39cf7b5c2b8bb3a2c40bb7bad93f66d6799ac7e47b86873fae9a346bb34ad56ba8d1473b5127ee945c1cdf0da745bee76f8f4d059f2a171f77bec
+e6cfd6fa532ee7e965d21f77afd360f9d45f39a5b6ee9708291633dbe1d036cd6290ce4af0f32e12753dca61cfe7245bd0eeaafafbdb665b8dcb3a9fdb26f500
+dfe201955271317bd91d461bf95f7636bfa907a9342e935d60deaf6e7bec9f881bad8362c5961fcf1675b7c1240e99b2f1b268eaeddbdb917b4dcde7c963b8a9
+46e78c1ee8043969c7d42c17baab25b70ee0f656adbb31b37ca648da06ed24eab4877ada349bd9bca6915a9fb604a3e1b70a96f3b2070f393d4366934da95cd3
+09f5adec7d7cf6c9dbb059ad90f17a9742ed70e8961ec2c79131efc99361508353b77323dc3e30f32733a724ec74ae96429ce59963967284248cd8f27eb968fb
+6d73bdd9b22e8644fae551cec86b0c72aedeed8c7f33fc7e139a21f83ba3f94a6431a0ada1e6a6e4cb3799a2e96e4871d96ef2298ca106dbcd7a35c936d97091
+f8b719c3aa3b20fd5afeef47f9c48f839ad20b69312ba4aea3d3707a18933fb6fc7536c5b34833bea406fcf49c0cd6feead7c32783b669eda8ed1e95cd3aa034
+436c05714778ec47e184c73b9ed956b53c94285eee71b8d8efc701e803cb8b4e3999a47e59a99a19bbed57ec9baed2a2216e318bcb295f8fb0cc1d2cc4d6530e
+b195229fbd963e67fc36bc6fde5047f08f6944acbb2f4ea2ccf28f838eaadce1627ec4bf24c45b9ede4602e7e7901e5fd6fdd0bd1b178fa8557a3dcb64ed67b8
+28ead1394fc533445d50a620e7cb53b6dfb3a65e77f2136327f10773fe3c11db451bbc797838ceb23bb0cd7ac6de1f2eacf06bc7498f837f95611505f61cb3b9
+9fded4245e01b4f678cb53e7b707c639e78904777530abe0ff38754317bfd389ff7d707ee720c9ffd37978f0ce4a37a9a11acbe0be4287c737e9705943fbc5bc
+999a666dc24d83081edcf1438ada78264c8fb23c9ba5ba0e0f476539d3fc25df10f71cb67bf0898c59348b9f06f912dc7703d236d2f65a12fb82d36c6bc59658
+725e23385c383d6fbd1275615f30b830e0974045e0974045e0974045e0974045b05ffd7cc0c821b05f1d5c18d027823e91420609dc12fa44d027fa8e44e81381
+8b04fa44e703460e8175487061c02f818ac02f818ac02f818a60bde77cc0c821304f042e0c19bd8d58419c6408e578be62eb7fe8430e59658e343254bf07fefb
+38ef53b4c4e6928c97118238a93892e3f932618260112cd0f0407ffab938dca7686ca5b15ae924fd7e4bb61f1708e21cebd4149effd1d8b2fb182f74184624c7
+e3c5d10c57a630314a79e703727a26f8baf9c48af8b3ddd55ee205033ee7a9b5ff0e527e412e3dbe0c09e208756ac6aea08ba6e5bc51ed3a467b4124c7c3ca61
+1dba113cf8fef3fab1bbaa88128950de28e2daf96fa8d9077b9215319853b27f7aa7176a4d3fa7ac197f2afb20c5baf1e4ddaafc7b4f481047a853b3de6c4bac
+c910b78b263ad94c22cb13c8f1303db241c37dd8b467182c4ca65a941325b21b17c81b45c0f5e3568b182f63b98a3266cf32b90ff869b73599935ecfba41a40c
+d82d2db27ebc5f4b2c3391e47d3c2c8873a472a1b9b23a95b2be19ccf56ce5436993b01ccf7b828b926135996f9b4cbb460e4fe0f06000ec8da768109d4e33f8
+1cfe00576bb09cef2e1335d844f344bc208e50a7c60d5d25b2791b4fcaadaa4eec59444417cbf130819dfbe7c2d8eb49ef8bdbf91b4d15262682c5787bb08a2a
+33baa2c98bf1deb2dc58cbbf3351ef342674144147c9dacf53a14908ed8ba8e592f6e449fc9217c411ead4ac5ccf32f559c359e6e8f88f0ca55c8886cfc7b66e
+b9fa44dc74832051d3a42e7c37be64a733c792af8876530679b52cabd466e3006eee89e5fce54e793019974e2b4ac22fa30471443a35fba4f8ad5d51723cc20d
+50c78951f246828b8f52de39b5224ebe224246097ce2463eacf70015c1bee0f3012387c0be607061c02f818ac02f818ac02f818ac02f818a60bffaf980914360
+bf3ab830a04f047d22850c12b825f489a04ff41d89d027021709d621cf078c1c02eb90e0c2805f0215815f0215815f0215f90f86718ebe55af5c380000000049
+454e44ae426082}}}}}
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049\rtlch \ltrch\loch\lang1033
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1074\'e2\u1099\'fb\u1073\'e1\u1088\'f0\u1072\'e0\u1090\'f2\u1100\'fc }{\rtlch \ltrch\loch\lang1033
+pub_name, }{\rtlch \ltrch\loch\lang1049
+\u1084\'ec\u1080\'e8\u1085\'ed\u1080\'e8\u1084\'ec\u1072\'e0\u1083\'eb\u1100\'fc\u1085\'ed\u1086\'ee\u1077\'e5 \u1079\'e7\u1085\'ed\u1072\'e0\u1095\'f7\u1077\'e5\u1085\'ed\u1080\'e8\u1077\'e5 }{\rtlch \ltrch\loch\lang1033
+price}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1080\'e8\u1079\'e7 \u1090\'f2\u1072\'e0\u1073\'e1\u1083\'eb\u1080\'e8\u1094\'f6 }{\rtlch \ltrch\loch\lang1033
+titles t, publishers p}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1075\'e3\u1076\'e4\u1077\'e5 \u1087\'ef\u1086\'ee\u1083\'eb\u1077\'e5 }{\rtlch \ltrch\loch\lang1033
+t.pub_id=p.pub_id}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1075\'e3\u1088\'f0\u1091\'f3\u1087\'ef\u1087\'ef\u1080\'e8\u1088\'f0\u1086\'ee\u1074\'e2\u1072\'e0\u1090\'f2\u1100\'fc \u1087\'ef\u1086\'ee }{\rtlch \ltrch\loch\lang1033
+pub_name}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1080\'e8\u1084\'ec\u1077\'e5\u1102\'fe\u1097\'f9\u1080\'e8\u1077\'e5 \u1084\'ec\u1080\'e8\u1085\'ed\u1080\'e8\u1084\'ec\u1072\'e0\u1083\'eb\u1100\'fc\u1085\'ed\u1086\'ee\u1077\'e5 \u1079\'e7\u1085\'ed\u1072\'e0\u1095\'f7\u1077\'e5\u1085\'ed\u1080\'e8\u1077\'e5 }{\rtlch \ltrch\loch\lang1033
+price>=ALL}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1033
+(}{\rtlch \ltrch\loch\lang1049
+\u1074\'e2\u1099\'fb\u1073\'e1\u1088\'f0\u1072\'e0\u1090\'f2\u1100\'fc \u1084\'ec\u1080\'e8\u1085\'ed\u1080\'e8\u1084\'ec\u1072\'e0\u1083\'eb\u1100\'fc\u1085\'ed\u1086\'ee\u1077\'e5 \u1079\'e7\u1085\'ed\u1072\'e0\u1095\'f7\u1077\'e5\u1085\'ed\u1080\'e8\u1077\'e5 }{\rtlch \ltrch\loch\lang1033
+price}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1080\'e8\u1079\'e7 \u1090\'f2\u1072\'e0\u1073\'e1\u1083\'eb\u1080\'e8\u1094\'f6\u1099\'fb }{\rtlch \ltrch\loch\lang1033
+titles tt }{\rtlch \ltrch\loch\lang1049
+\u1086\'ee\u1073\'e1\u1098\'fa\u1077\'e5\u1076\'e4\u1080\'e8\u1085\'ed\u1080\'e8\u1090\'f2\u1100\'fc \u1089\'f1 \u1090\'f2\u1072\'e0\u1073\'e1\u1083\'eb\u1080\'e8\u1094\'f6\u1077\'e5\u1081\'e9}{\rtlch \ltrch\loch\lang1033
+ publishers pp}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1087\'ef\u1086\'ee\u1083\'eb\u1077\'e5 \u1082\'ea\u1086\'ee\u1090\'f2\u1086\'ee\u1088\'f0\u1086\'ee\u1081\'e9 }{\rtlch \ltrch\loch\lang1033
+tt.pub_id=pp.pub_id}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f3\hich\af3\fs24\lang1049{\rtlch \ltrch\loch\lang1049
+\u1075\'e3\u1088\'f0\u1091\'f3\u1087\'ef\u1087\'ef\u1080\'e8\u1088\'f0\u1086\'ee\u1074\'e2\u1072\'e0\u1090\'f2\u1100\'fc \u1087\'ef\u1086\'ee }{\rtlch \ltrch\loch\lang1033
+pub_name}{\rtlch \ltrch\loch\lang1033
+)}
+\par }
