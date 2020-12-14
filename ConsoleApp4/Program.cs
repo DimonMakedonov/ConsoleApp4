@@ -23,7 +23,7 @@ namespace ConsoleApp4
 
             try
             {
-                using (StreamReader reader = new StreamReader(@"C:\Users\Dima\Desktop\Новый документ в формате RTF (3).RTF", Encoding.ASCII))
+                using (StreamReader reader = new StreamReader(@"C:\Users\Dima\Desktop\Новый документ в формате RTF (3).RTF", Encoding.Default))
                 {
                     rich.Text = reader.ReadToEnd();
                     reader.Close();
@@ -34,9 +34,14 @@ namespace ConsoleApp4
 
             }
 
+            string simpleText = rich.Text;
+            var simpleTextBytes = Encoding.UTF8.GetBytes(simpleText);
+            string enText = Convert.ToBase64String(simpleTextBytes);
+            var enTextBytes = Convert.FromBase64String(enText);
+            string deText = Encoding.UTF8.GetString(enTextBytes);
             Console.WriteLine(rich.Text);
 
-            report.SetParameterValue("Parameter.Parameter", rich.Text);
+            report.SetParameterValue("Parameter.Parameter", deText);
 
             report.Prepare();
 
